@@ -1,0 +1,3790 @@
+INCZOOMFORMCOL	Form Generator
+INCZOOMFORM	Form Generator
+ZOOM9	Basic Programs
+ZOOM8	Basic Programs
+ZOOM7	Basic Programs
+ZOOM6	Basic Programs
+ZOOM5	Basic Programs
+ZOOM4	Basic Programs
+ZOOM3	Basic Programs
+ZOOM2	Basic Programs
+ZOOM1	Basic Programs
+ACT	Inventory Control
+ACTALT	Factory Modelling
+ACTSKILL	Factory Modelling
+ACTSUTYP	Factory Modelling
+ACTVAR	Factory Modelling
+CLUST	Production Planning
+CURRENCIES	Basic Modelling
+CUSTOMERS	CRM
+EMENU	Menu Generator
+EPROG	Procedure Generator
+EREP	Report Generator
+EXCPT	Factory Modelling
+EXCTT	Factory Modelling
+FCLMN	Form Generator
+FLINK	Form Generator
+MENU	Menu Generator
+ORDERS	Sales
+PART	Basic Modelling
+PARTALT	Basic Modelling
+PARTARC	Basic Modelling
+PARTPRICE	Sales
+PARTSUTYP	Factory Modelling
+PARTVAR	Factory Modelling
+PROCACT	Factory Modelling
+PROCESS	Factory Modelling
+REPCLMNS	Report Generator
+REPTABLES	Report Generator
+SETUP	Production Planning
+SKILL	Basic Modelling
+TYPSU	Factory Modelling
+UNIT	Basic Modelling
+WORKC	Factory Modelling
+WORKCEXCPT	Factory Modelling
+WORKCSU	Factory Modelling
+WORKPAT	Factory Modelling
+WORKPATTMTBL	Factory Modelling
+CONST	System Maintenance
+EFORM	Form Generator
+PROG	Procedure Generator
+PROGPARAM	Procedure Generator
+MANUFREL	Production Planning
+VAR	Factory Modelling
+CHAIN	Production Planning
+CHAINCLUST	Production Planning
+SCHALTW	Production Planning
+SCHALTJ	Production Planning
+CATALOG	Table Generator
+INDEXES	Table Generator
+TCOLUMNS	Table Generator
+SCHALTA	Production Planning
+SCHPARTJ	Production Planning
+SCHPARTA	Production Planning
+ECOMP	Procedure Generator
+ORDERITEMSTRANS	Sales
+CLUSTBUILD	Basic Modelling
+TRANSORDER_T	Inventory Control
+EXCPTWORKC	Factory Modelling
+MANUFSU	Production Planning
+CLUSTORDERITEMS	Production Planning
+MANUFRELAL	Production Planning
+ENVIRONMENT	System Maintenance
+USERS	System Maintenance
+PRIVILEGES	System Maintenance
+PRIVCAT	System Maintenance
+PRIVCATUSER	System Maintenance
+REPCLMNSA	Report Generator
+FCLMNA	Form Generator
+PROGPARAMA	Procedure Generator
+MANUFACT	Production Planning
+NCATALOG	Table Generator
+NCOLUMNS	Table Generator
+NINDEXES	Table Generator
+NINDCLMNS	Table Generator
+COLUMNS	Table Generator
+NCATALOGC	Table Generator
+NCATALOGI	Table Generator
+NINDCLMNSI	Table Generator
+FTRIG	Form Generator
+TRIGGERS	Form Generator
+EDOC	Document Generator
+DOCREP	Document Generator
+PARTPARENT	Basic Modelling
+SCREENMSG	System Dictionaries
+FORMMSG	Form Generator
+FTRIGTEXT	Form Generator
+FORMCLTRIG	Form Generator
+RESERVED	System Dictionaries
+BGLIST	System Maintenance
+LOAD	Form Load Interface
+LOADCLMNS	Form Load Interface
+LOADTEXT	Form Load Interface
+EXTMSG	Procedure Generator
+ORDERITEMS	Sales
+ORDERITEMSLOT	Production Planning
+PROGTEXT	Procedure Generator
+NPART	Basic Modelling
+WORKCTEXT	Factory Modelling
+PARTTEXT	Basic Modelling
+ACTTEXT	Factory Modelling
+EXTDIC	System Dictionaries
+TRIGMSGDIC	System Dictionaries
+WAREHOUSES	Inventory Control
+DOCUMENTS_T	Inventory Control
+WARHSBAL	Inventory Control
+SYSCONST	System Maintenance
+CUSTORDERS	Sales
+PARTBAL	Inventory Control
+SUPPLIERS	Purchasing
+SUPPORDERS	Purchasing
+PORDERITEMS	Purchasing
+PORDERS	Purchasing
+DOCUMENTS_D	Inventory Control
+DOCUMENTS_A	Inventory Control
+DOCTRIG	Form Generator
+TRANSTRIG	Form Generator
+TRANSORDER_D	Inventory Control
+TRANSORDER_A	Inventory Control
+DOCUMENTS_P	Inventory Control
+TRANSORDER_P	Inventory Control
+DOCUMENTS_W	Inventory Control
+TRANSORDER_W	Inventory Control
+PORDERITEMSTRANS	Purchasing
+DOCUMENTS_N	Inventory Control
+TRANSORDER_N	Inventory Control
+PRICELISTDATE	Sales
+CUSTPARTPRICE	Sales
+FATFLINK	Form Generator
+FMENU	Menu Generator
+FATMENU	Form Generator
+REPMENU	Report Generator
+PROGMENU	Procedure Generator
+COMPPROG	Procedure Generator
+WORKCALT	Factory Modelling
+REPPROG	Report Generator
+CLUSTCHAIN	Production Planning
+DOCTYPES	Inventory Control
+PARTPROC	Factory Modelling
+DOCMENU	Document Generator
+DEPT	Inventory Control
+AFORM	Production Control
+ALINE	Production Control
+SERIAL	Production Control
+PRICELIST	Sales
+DEPTEXCPT	Factory Modelling
+EXCPTDEPT	Factory Modelling
+DEPTWORKC	Factory Modelling
+CUSTDISCOUNT	Sales
+PARTARCONE	Basic Modelling
+PARTSUTYPONE	Factory Modelling
+PARTVARONE	Factory Modelling
+LOADMSG	Form Load Interface
+CINVOICES	Sales Invoices
+PINVOICES	Vendor Invoices
+CINVOICEITEMS	Sales Invoices
+PINVOICEITEMS	Vendor Invoices
+LOGCONST	System Maintenance
+PRINTERS	System Maintenance
+USERPRINTERS	System Maintenance
+ORDERITEMSTEXT	Sales
+PRODCONST	System Maintenance
+NULL	Basic Programs
+PRFILTER	System Maintenance
+ENVIRONMENTTEXT	System Maintenance
+PRINTERUSERS	System Maintenance
+PRINTSCR	System Maintenance
+REPTITLE	Report Generator
+PROGTITLE	Procedure Generator
+NCOLUMNSC	Table Generator
+PACK	Inventory Control
+PAY	Basic Modelling
+PDPROF	Vendor Price Quotes
+PDPROFITEMS	Vendor Price Quotes
+PPROF	Vendor Price Quotes
+PPROFITEMS	Vendor Price Quotes
+REPCLMNSTITLE	System Dictionaries
+FORMCLMNSTITLE	System Dictionaries
+EXEC	System Dictionaries
+PRFONTS	System Maintenance
+FORMPRIV	System Maintenance
+FORMCLPRIV	System Maintenance
+PRIVFORM	System Maintenance
+PRIVFORMCL	System Maintenance
+UFORMPRIV	System Maintenance
+CPROF	Price Quotations
+CPROFITEMS	Price Quotations
+DAYS	System Dictionaries
+MONTHS	System Dictionaries
+DOCPROG	Document Generator
+MIXEDLINE	System Maintenance
+DOUBLELINE	System Maintenance
+CURREG	Basic Modelling
+CURREGITEMS	Basic Modelling
+CURRHIS	Basic Modelling
+EXECPR	System Maintenance
+EXECPRINTERS	System Maintenance
+PRINTEREXEC	System Maintenance
+FORMEXEC	Form Generator
+COMPMENU	Procedure Generator
+EXECUSER	System Maintenance
+USEREXEC	System Maintenance
+EXECUS	System Maintenance
+FORECASTITEMS	Demand Forecasts
+EXECTABLEPRIV	System Maintenance
+DISCOUNTS	Sales
+CUSTFAMILYDISC	Sales
+ZONES	Inventory Control
+LORRYTYPES	Inventory Control
+LORRIES	Inventory Control
+SHIPPERS	Inventory Control
+SHIPPERPRICES	Inventory Control
+DOCUMENTS_L	Laboratory
+TRANSORDER_L	Laboratory
+REPTITLES	System Dictionaries
+REVISIONS	Engineering
+BLUEPRINT	Factory Modelling
+PURDEMANDS	Purchasing
+FORMREFRESH	Form Generator
+SERIALBAL	Production Control
+PRDITEMS	Purchasing
+PATTERNS	Basic Modelling
+DOCUMENTS_C	Inventory Control
+TRANSORDER_C	Inventory Control
+UNITCONV	Inventory Control
+REPSAVED	System Maintenance
+PDUSER	Purchasing
+PARTPACK	Basic Modelling
+PACKPART	Inventory Control
+ORDISINGLE	Sales
+PORDISINGLE	Purchasing
+CPROFTEXT	Price Quotations
+PARTCPROF	Price Quotations
+PARTORDERS	Price Quotations
+ORDICPROF	Price Quotations
+SUPPRICELIST	Purchasing
+SPARTPRICE	Purchasing
+SUPPROF	Purchasing
+INVPARTPPROF	Purchasing
+PURTAXES	Basic Modelling
+PPROFTEXT	Vendor Price Quotes
+KITITEMS	Production Control
+TRANSORDER_K	Production Control
+STATUS	Inventory Control
+LOGFILE	Inventory Control
+FLUSHERROR	Production Control
+SERALINE	Production Control
+UPGTYPES	Software Versions
+UPGNOTESA	Software Versions
+VERSIONS	Software Versions
+PARTSUP	Purchasing
+PARTORDERED	Purchasing
+TRANSORDER_S	Production Control
+ACCBAL	Inventory Control
+ACCDATES	Inventory Control
+ACCBALSON	Inventory Control
+ORDERITEMSIV	Sales Invoices
+REPCLMNSTEXT	Report Generator
+FCLMNTEXT	Form Generator
+REPDOC	Report Generator
+PINVOICESTEXT	Vendor Invoices
+PORDERSTEXT	Purchasing
+DOCTRIGTEXT	Form Generator
+FORMMSGTEXT	Form Generator
+EXTMSGTEXT	Procedure Generator
+UPGRADES	Software Versions
+UPGNOTESTEXT	Software Versions
+UPGTEXT	Software Versions
+UPGFILES	Software Versions
+UPGNOTES	Software Versions
+UPGNOTESTEXTA	Software Versions
+VERUPGRADES	Software Versions
+TRIGMSG	Form Generator
+SUPPART	Purchasing
+PARTPARAM	Basic Modelling
+TRIGMSGTEXT	Form Generator
+UPGDOCT	Software Versions
+UPGDEVP	Software Versions
+PARTSUPPLIERS	Purchasing
+SINVOICES	Vendor Invoices
+SINVOICEITEMS	Vendor Invoices
+MANPRICELIST	Sales
+IMPFILES	Importing/Shipping
+IMPFILEINV	Importing/Shipping
+PORDERUSERLIST	Purchasing
+PORDERUSER	Purchasing
+ACCOUNTS	General Ledger
+FNCTRANS	General Ledger
+FNCITEMS	General Ledger
+FNCPATTERNS	General Ledger
+FNCPATITEMS	General Ledger
+VERSIONSTEXT	Software Versions
+ACCFNCITEMS	General Ledger
+HSCURRENCIES	General Ledger
+HSFNCINTERFACE	General Ledger
+SUPPLIERPARTS	Purchasing
+BACKUP	System Maintenance
+OPENINVOICES	Sales Invoices
+OPENINVITEMS	Sales Invoices
+CLOSEINVOICES	Sales Invoices
+CLOSEINVITEMS	Sales Invoices
+EMPLOYEES	Basic Modelling
+HSPATTERNS	General Ledger
+FNCTRANSTEXT	General Ledger
+PARTDES	Basic Modelling
+EXPDSERIAL	Laboratory
+PRDISINGLE	Purchasing
+EXPDEXT	Laboratory
+BUDGETS	Budgets
+func	Basic Programs
+ACCSUP	General Ledger
+FNCCUST	Basic Modelling
+FNCSUP	Basic Modelling
+FNCCONST	System Maintenance
+SHIPTYPES	Inventory Control
+MNFCTR	Purchasing
+DOCUMENTS_O	Inventory Control
+TRANSORDER_O	Inventory Control
+ACCTYPES	General Ledger
+TRIALBAL	General Ledger
+CUSTPART	Sales
+PROGMSG	Procedure Generator
+PROGMSGTEXT	Procedure Generator
+FORECAST	Demand Forecasts
+AGENTS	Sales Reps
+FNCPART	Basic Modelling
+IVTYPES	Basic Modelling
+DEAL	Sales
+DEALTEXT	Sales
+DEALITEMS	Sales
+TRANSORDER_E	Inventory Control
+CUSTDESTS	Sales
+FORMCLTRIGTEXT	Form Generator
+TRIGCLMSG	Form Generator
+TRIGCLMSGTEXT	Form Generator
+FINVOICES	Export Invoices
+FINVOICEITEMS	Export Invoices
+RINVOICES	Sales Invoices
+RINVOICEITEMS	Sales Invoices
+WORKHOURS	Office Management
+PRDLOG	Purchase Planning
+UFORMCLPRIV	System Maintenance
+ORDERSTEXT	Sales
+ORDERSDEST	Sales
+SHIPDOCDEST	Inventory Control
+PORDERITEMSIV	Purchasing
+PORDPARTPROF	Purchasing
+CUSTPARTDISC	Sales
+GENERREMARK	Factory Modelling
+DETAILDES	Factory Modelling
+ENGTRACK	Factory Modelling
+ENGDATA	Factory Modelling
+SERIALTEXT	Production Control
+LINKING_O	Sales
+LINKING_P	Purchasing
+OITEMDESTS	Sales
+ENGMEN	Engineering
+TRANSDESTS	Inventory Control
+PRDSUPPLIERS	Purchasing
+KVFNCINTERFACE	General Ledger
+KVCURRENCIES	General Ledger
+KVPATTERNS	General Ledger
+IVSDUTIES	Importing/Shipping
+PROGPARAMTITLE	System Dictionaries
+IMPFILEIV	Importing/Shipping
+TRANSORDER_B	Production Control
+PARTBALANCE	Inventory Control
+CUSTPLIST	Sales
+ORDSERIAL	Production Control
+TRANSORDER_U	Production Control
+PROGPROG	Procedure Generator
+PARTBALAN	Inventory Control
+REPCLMNSEXP	Report Generator
+REPCLMNSTEXTEXP	Report Generator
+SECTIONS	General Ledger
+HELP	System Dictionaries
+PAYMENTTYPE	Basic Modelling
+TINVOICES	Cashiers
+TPAYMENT	Cashiers
+FNCBAL	General Ledger
+TINVOICESTEXT	Cashiers
+CASH	General Ledger
+CASHBAL	Cashiers
+BINVOICES	Cashiers
+BPAYMENT	Cashiers
+BINVOICESTEXT	Cashiers
+BCASHBAL	Cashiers
+PAYMENTLOG	Cashiers
+FNCPATACCOUNTS	General Ledger
+COMPHELP	Procedure Generator
+REPHELP	Report Generator
+PROGHELP	Procedure Generator
+DOCHELP	Document Generator
+MENUHELP	Menu Generator
+PROGPARAMHELP	Procedure Generator
+REPCLMNSHELP	Report Generator
+PRDPART	Purchasing
+RECONTYPES	General Ledger
+RECONMETHODS	General Ledger
+RECONMETHODSTEPS	General Ledger
+ACCOUNTSTEXT	General Ledger
+TPAYMENT2	Cashiers
+DEFECTCODES	Laboratory
+FNCPATFIELDS	General Ledger
+RAWSERIAL	Inventory Control
+RAWSERIALBAL	Inventory Control
+TRANSORDER_H	Inventory Control
+TRANSORDER_M	Inventory Control
+TRANSORDER_I	Production Control
+PDPROFPART	Purchasing
+OPENPORDERS	Inventory Control
+PDEAL	Purchasing
+PDEALITEMS	Purchasing
+LOADPROG	Procedure Generator
+LASTCOUNT	Inventory Control
+PDEALTEXT	Purchasing
+FNCWARHS	General Ledger
+DOCUMENTS_G	Laboratory
+TRANSORDER_G	Laboratory
+BUDGETITEMS	Budgets
+BUDVERSIONS	Budgets
+BUDGETPLN	Budgets
+BUDVERUSERLIST	Budgets
+BUDVERUSERS	Budgets
+BUDGETPLNA	Budgets
+COUNTRIES	Inventory Control
+BANKPAGES	Bank Reconciliations
+BANKLINES	Bank Reconciliations
+DOCPORD	Inventory Control
+QINVOICESTEXT	Bank Transfers
+FNCIFORQIV	Payments
+GENLEDGERS	General Ledger
+BANKRECON	Bank Reconciliations
+BANKS	General Ledger
+DOCUMENTS_F	Production Control
+TRANSORDER_F	Production Control
+EINVOICES	Cashiers
+ALINEEMP	Production Control
+EINVOICEITEMS	Cashiers
+EPAYMENT	Cashiers
+EPAYMENT2	Cashiers
+FORMHELP	Form Generator
+FCLMNHELP	Form Generator
+PROGTEXTMSG	Procedure Generator
+PROGTEXTMSGTEXT	Procedure Generator
+BANKRECONCONTRA	Bank Reconciliations
+CREDITPAGES	Bank Reconciliations
+CREDITLINES	Bank Reconciliations
+OBLIGO	Sales Invoices
+DOCUMENTS_E	Inventory Control
+ACCRECON	General Ledger
+ACCRECONCONTRA	General Ledger
+PIVDOC	Vendor Invoices
+CIVDOC	Sales Invoices
+RAWPARTCOST	Cost Analysis - Busn
+RAWTRANSCOST	Cost Analysis - Busn
+DOCORD	Inventory Control
+STANDARDCOST	Cost Analysis-Mnfrs.
+PIVFORDOC	Vendor Invoices
+CIVFORDOC	Sales Invoices
+MAKEPARTCOST	Cost Analysis - Busn
+MAKESERIALCOST	Cost Analysis-Mnfrs.
+MAKETRANSCOST	Cost Analysis - Busn
+ACCOUNTADJCURR	Exch Rate Adjustment
+MAKESUMMARYCOST	Cost Analysis-Mnfrs.
+SERIALDETCOST	Cost Analysis-Mnfrs.
+TRIGMSGDICTEXT	System Dictionaries
+EXTDICTEXT	System Dictionaries
+ACCTYPESEC	General Ledger
+PDEALUSER	Purchasing
+PDEALUSERLIST	Purchasing
+SERIALCOST	Cost Analysis-Mnfrs.
+BALTYPES	General Ledger
+VATSECTIONS	General Ledger
+SERIALRAWCOST	Cost Analysis - Busn
+RAWWARHSCOST	Cost Analysis - Busn
+MAKEWARHSCOST	Cost Analysis - Busn
+WARHSCOST	Cost Analysis-Mnfrs.
+WARHSRAWCOST	Cost Analysis-Mnfrs.
+PORDERSSIGN	Purchasing
+PARTPATTERNS	Basic Modelling
+MAKESUMMARYCOST2	Cost Analysis-Mnfrs.
+MAKESERIALCOST2	Cost Analysis-Mnfrs.
+RINVOICESCONT	Sales Invoices
+PINVOICESCONT	Vendor Invoices
+LOGFILESIGN	Inventory Control
+WORKCCOST	Cost Analysis-Mnfrs.
+DEPTCOST	Cost Analysis-Mnfrs.
+SKILLCOST	Cost Analysis - Busn
+AINVOICES	Sales Invoices
+AINVOICEITEMS	Sales Invoices
+FNCTRANS_CHANGES	General Ledger
+FNCITEMS_CHANGES	General Ledger
+FNCTRANSTEXT_CHANGES	General Ledger
+FNC_CHANGE_LOG	General Ledger
+PAYMENT_CHANGES	Cashiers
+PAYMENT2_CHANGES	Cashiers
+PARTARCTOOL	Factory Modelling
+PARTTOOL	Factory Modelling
+PARTTOOLPARENT	Factory Modelling
+PARTTOOLALT	Factory Modelling
+BANKTRANSTYPES	Bank Reconciliations
+IMPFILEIVS	Importing/Shipping
+TAXES	Basic Modelling
+TAXCOMPONENTS	General Ledger
+LANGUAGEDOC	System Dictionaries
+FNCSUPPART	General Ledger
+LANGDOCEXEC	System Dictionaries
+CPROFTEXTONE	Price Quotations
+SERISSUECOST	Cost Analysis-Mnfrs.
+CLOSEAINVOICES	Sales Invoices
+CLOSEBINVOICES	Cashiers
+CLOSEEINVOICES	Cashiers
+CLOSEFINVOICES	Export Invoices
+CLOSERINVOICES	Sales Invoices
+CLOSETINVOICES	Cashiers
+SUTYPESPART	Factory Modelling
+SUTYPESACT	Factory Modelling
+ACCOUNTS_RECEIVABLE	General Ledger
+ARFNCITEMS3	General Ledger
+ACCOUNTS_PAYABLE	General Ledger
+CLOSEPINVOICES	Vendor Invoices
+CLOSEQINVOICES	Bank Transfers
+CLOSESINVOICES	Vendor Invoices
+IVORD	Sales Invoices
+SERMANUFACT	Production Control
+SUMMARYCOST	Cost Analysis-Mnfrs.
+SUMMARYCOST2	Cost Analysis-Mnfrs.
+PROCACTALT	Factory Modelling
+FNCLOG	General Ledger
+BANKRECONCHECK	Bank Reconciliations
+ACCRECONCONTRATEXT	General Ledger
+BANKRECONCONTRATEXT	Bank Reconciliations
+ACCFNCITEMS2	General Ledger
+CINVOICESCONT	Sales Invoices
+PRDLOGPART	Purchase Planning
+EINVOICESCONT	Cashiers
+AINVOICESCONT	Sales Invoices
+BANKLINESA	Bank Reconciliations
+ACCCONST	General Ledger
+FNCFAMILY	General Ledger
+FNCWARHSFAMILY	General Ledger
+TRIGF	Form Generator
+UINVOICES	Cashiers
+UINVOICESTEXT	Cashiers
+TRANSCSIGN	Inventory Control
+TRANSASIGN	Inventory Control
+TRANSHSIGN	Inventory Control
+TRANSBSIGN	Production Control
+TRANSWSIGN	Inventory Control
+TRANSNSIGN	Inventory Control
+TRANSTSIGN	Inventory Control
+TRANSOSIGN	Inventory Control
+TRANSGSIGN	Laboratory
+TRANSSSIGN	Production Control
+TRANSDSIGN	Inventory Control
+TRANSFSIGN	Production Control
+TRANSISIGN	Production Control
+TRANSKSIGN	Production Control
+TRANSESIGN	Inventory Control
+TRANSPSIGN	Inventory Control
+TRANSLSIGN	Laboratory
+FNCFAMILYPART	General Ledger
+DATAPRIV	System Maintenance
+PARTPRICESIGN	Sales
+FAMILYPART	Basic Modelling
+EACCESS	Document Generator
+ACCHELP	Document Generator
+QIVCHECKNUM	Payments
+PRICEOPTIONS	Purchasing
+ACCMENU	Document Generator
+ZOOMCOLUMNS	Form Generator
+ACCESSCLMNS	Document Generator
+ACCTABLEPRIV	Document Generator
+ACCPROG	Document Generator
+ACCCLMNSHELP	Document Generator
+INTEREST	Finance Charges
+INTERESTITEMS	Finance Charges
+PROCPART	Factory Modelling
+HELPNOTES	System Dictionaries
+HELPNOTESTEXT	System Dictionaries
+COLFORM	Table Generator
+COLREP	Table Generator
+FORMCLTRIGINC	Form Generator
+FORMTRIGINC	Form Generator
+HELPNOTESCOMM	System Dictionaries
+SUPPLIST	Purchasing
+PRDLOGPARTPUR	Purchase Planning
+PRDLOGPUR	Purchase Planning
+ACCCUST	General Ledger
+CONVUNIT	Inventory Control
+SUPPRICELISTSIGN	Purchasing
+PORDERITEMSSIGN	Purchasing
+YINVOICES	Vendor Invoices
+YINVOICEITEMS	Vendor Invoices
+PORDPRICEOPTIONS	Purchasing
+PRDPRICEOPTIONS	Purchasing
+PRDISINGLESIGN	Purchasing
+DEALITEMSSIGN	Sales
+DEALSIGN	Sales
+ORDERITEMSSIGN	Sales
+PDEALSIGN	Purchasing
+PDEALITEMSSIGN	Purchasing
+PRDITEMSSIGN	Purchasing
+ACCOUNTSSIGN	General Ledger
+ALINESIGN	Production Control
+ACCOUNTS_GENERAL	General Ledger
+YINVOICESCONT	Vendor Invoices
+LASTPART	Cost Analysis - Busn
+LASTPARTSIGN	Cost Analysis - Busn
+COSTFLAGS	Cost Analysis - Busn
+LOGFILEF	Inventory Control
+LOGFILEFSIGN	Cost Analysis - Busn
+ORDSERIALORDI	Production Control
+SERALINEEMP	Production Control
+SERMANACTSKILL	Production Control
+BUDVER	Budgets
+PRINTCHECKS	Check Payments
+LC	Basic Programs
+FORMPROG	Form Generator
+BANKRECONQ	Bank Reconciliations
+COSTCENTERS	Cost Allocation
+COSTCFNCITEMS	Cost Allocation
+COSTCFNCITEMS2	Cost Allocation
+BURDENTYPES	Cost Allocation
+BURDENRATES	Cost Allocation
+BURDENRATES2	Cost Allocation
+CPRICEOPTIONS	Sales
+CORDPRICEOPTIONS	Sales
+CPROFPRICEOPTIONS	Price Quotations
+COSTCTREE	Cost Allocation
+COSTCTREESON	Cost Allocation
+PDEALPRICEOPTIONS	Purchasing
+DEALPRICEOPTIONS	Sales
+PROFITCENTERS	Cost Allocation
+ICOSTCENTERS	Cost Allocation
+CASH_BANKS	Cashiers
+CASH_CREDIT	Cashiers
+CASH_CASH	Cashiers
+CUSTPERSONNEL	Sales
+PORDERS_CHANGES	Purchasing
+PORDERITEMS_CHANGES	Purchasing
+COMPDATA	Basic Modelling
+LOADFNCENV	Interfaces
+LOADFNC	Interfaces
+ULOADFNC	General Ledger
+INCZOOMFORMTEXT	Form Generator
+INCZOOMFORMCOLTEXT	Form Generator
+FSTATEMENTS	Financ'l Statemt Gen
+FSQUERIES	Financ'l Statemt Gen
+LOADACCOUNTDEF	General Ledger
+LOADFNCIDEF	General Ledger
+FSCLMNS	Financ'l Statemt Gen
+CASHFLOW	General Ledger
+FSSCHEDULE	Financ'l Statemt Gen
+FSACCOUNTS	Financ'l Statemt Gen
+ACCOUNTS_BY_TRIALBAL	General Ledger
+SHIFTS	Basic Programs
+ACNGROUPS	General Ledger
+ACCOUNTS_BY_ACNGROUP	General Ledger
+CPROFONCE	Price Quotations
+HINVOICES	Payments
+HFNCITEMS2	Payments
+CLOSEHINVOICES	Payments
+FAMILYTYPES	Basic Modelling
+SYSCONSTGROUP	System Maintenance
+USERSYSCONST	System Maintenance
+CPROF_CHANGES	Price Quotations
+TINVOICES_CHANGES	Cashiers
+FNCICODES	General Ledger
+BACKUPDATE	System Maintenance
+HINVOICESTEXT	Payments
+REVPARTARC	Engineering
+REVISIONSINGLE	Engineering
+REVISIONUSERLIST	Engineering
+REVISIONUSER	Engineering
+CUSTOMERSA	Sales
+REVPARTARCTOOL	Engineering
+REVISIONPARTARC	Engineering
+REVISIONPARTARCTOOL	Engineering
+UINVOICESCONT	Cashiers
+SUPPLIERSA	Purchasing
+QINVOICESCONT	Bank Transfers
+TINVOICESCONT	Cashiers
+HINVOICESCONT	Payments
+ORDERSCONT	Sales
+DOCUMENTS_DCONT	Inventory Control
+DOCUMENTS_NCONT	Inventory Control
+PORDERSCONT	Purchasing
+DOCUMENTS_PCONT	Inventory Control
+DOCUMENTS_WCONT	Inventory Control
+HFNCITEMS	Payments
+PHONEBOOK	CRM
+PHONELIST	Office Management
+ASSETSORT	Fixed Assets
+ASSETPOS	Fixed Assets
+INVSTPLANS	Fixed Assets
+DEPRCALCDATA	Fixed Assets
+FAMILY_LOG	Basic Modelling
+FAMILY_FNC	General Ledger
+DEPRRESULTS	Fixed Assets
+FNCIPAYMENTS	Payments
+CUSTPERSONNELLIST	Sales
+SUPPERSONNELLIST	Purchasing
+SUPPERSONNEL	Purchasing
+BRANCHES	Branches
+BRANCHUSERS	Branches
+USERBRANCH	Office Management
+ORDFNCBAL	General Ledger
+NSCUST	Sales Invoices
+NSSUP	Vendor Invoices
+TRANSORDERTEXT	Inventory Control
+FNCBAL2	General Ledger
+ORDFNCBALSINGLE	Sales
+CLOSEQFNCITEMS	Bank Transfers
+DEPRMETHODS	Fixed Assets
+TAXDEPRRESULTS	Fixed Assets
+GLPERIODS	General Ledger
+FSDEF	Financ'l Statemt Gen
+PIVDOC2	Vendor Invoices
+CASHBAL2	Cashiers
+CUSTNOTES	CRM
+CUSTNOTESTEXT	CRM
+CUSTTOPICS	CRM
+BDOMAINS	CRM
+TRANSIV_D	Sales Invoices
+CUSTNOTESA	CRM
+FTRANS	Transact Report Gen.
+CUSTNOTEORDERS	CRM
+CUSTDEALS	CRM
+CUSTOMERSTEXT	Sales
+DEPTUSERS	Factory Modelling
+DOCAORD	Inventory Control
+DOCPACK	Bill of Lading
+DOCPACK2	Bill of Lading
+PACKLIST	Bill of Lading
+HFNCITEMS3	Payments
+QINVOICES	Bank Transfers
+MODELS	Price Quotations
+MODELOPTPARTS	Price Quotations
+ACCOUNTBANK	General Ledger
+MODELOPTIONS	Price Quotations
+TFNCITEMS2	Cashiers
+TFNCITEMS	Cashiers
+TAXDEPRCALCDATA	Fixed Assets
+PRINTCHECKSITEMS	Check Payments
+FLEDGERS	Ledger Report Gener.
+FLCLMNS	Ledger Report Gener.
+TAXOFFICES	General Ledger
+FAMILY_LOGPART	Basic Modelling
+FAMILY_FNCPART	General Ledger
+PDUSERCODES	Purchasing
+PDUSERCODELIST	Purchasing
+LOADFNCBAL	General Ledger
+CUSTPATTERNS	CRM
+FNCBAL4	Adjust by Price Indx
+USERSB	Office Management
+MSVCOMPDATA	Interbk Trans Proces
+QIVTOMASAV	Interbk Trans Proces
+PARTPRICE2	Sales
+SERNUMBERS	Serial Numbers
+SERNTRANSLOG	Serial Numbers
+SERNUMBERSTRANS	Serial Numbers
+SERNTRANS	Serial Numbers
+PARTPRICE2SIGN	Sales
+PDPROFTEXT	Vendor Price Quotes
+CPROFISINGLE	Price Quotations
+LOGPART	Inventory Control
+LOGPARTPRICEOPTIONS	Inventory Control
+PARTTRANSLAST	Inventory Control
+IMPFILEITEMS	Importing/Shipping
+DOCUMENTS_J	Importing/Shipping
+TRANSORDER_J	Importing/Shipping
+TRANSJSIGN	Importing/Shipping
+OPENSERNUM	Serial Numbers
+INCZOOMTRIGMSG	Form Generator
+INCZOOMCOLTRIGMSG	Form Generator
+IMPFILEITEMSTRANS	Importing/Shipping
+SERVTYPES	Customer Service
+SERVFAMILIES	Customer Service
+WARRANTIES	Customer Service
+INCZOOMFORMCLTRIGINC	Form Generator
+INCZOOMFORMTRIGINC	Form Generator
+SERVCONTITEMS	Customer Service
+SERVCONTITEMSTEXT	Customer Service
+FOOD	Office Management
+COURSES	Office Management
+COURSETYPE	Office Management
+FORMCLMNSTITLEHELP	System Dictionaries
+DOCUMENTS_Q	Customer Service
+MALFUNCTIONS	Basic Modelling
+LOADACCOUNTS	General Ledger
+PROGPARAMHELP2	System Dictionaries
+DOCTEXT_Q	Customer Service
+SERVCONTCALLS	Customer Service
+SERVCONTICALLS	Customer Service
+SERNSERVCONTRACTS	Customer Service
+TRANSORDER_Q	Customer Service
+ORDCPROF	Price Quotations
+SERVSCHED	Customer Service
+USERLIST	Office Management
+SERVSCHEDCALLS	Customer Service
+QUESTFORM	Sales
+QUESTIONS	Basic Programs
+ANSWERS	Basic Programs
+QUESTDOC	Sales
+QUESTLINES	Basic Programs
+QUESTDOCTEXT	Basic Programs
+GLINDEX	Adjust by Price Indx
+ABSENTCODES	Office Management
+ABSENTCHART	Office Management
+FORMPREPERRS	Form Generator
+BRANCHINVLEVEL	Branches
+FOBORDERS	Commission Sales
+FOBORDERITEMS	Commission Sales
+AGENTSFAMILY	Sales Reps
+CUSTINFO	CRM
+CUSTINFOQ	CRM
+CUSTBDOMAINS	CRM
+LOGBAL	Executive Reports
+LOGBALDETCUST	Executive Reports
+LOGBALDETBRANCH	Executive Reports
+LOGBALDETAGENT	Executive Reports
+LOGBALDETCUSTPART	Executive Reports
+LOGBALDETAGENTCUST	Executive Reports
+LOGBALDETAGENTPART	Executive Reports
+LOGBALDETBRANCHCUST	Executive Reports
+LOGBALDETBRANCHPART	Executive Reports
+CUSTWAREALOAD	CRM
+CUSTTREATMENTS	CRM
+TREATMENTS	CRM
+LOGBALDETORDI	Executive Reports
+LOGBALDETORDIOPEN	Executive Reports
+POSITIONS	Sales
+LOGBALDETPART	Executive Reports
+CUSTWORKAREA	CRM
+MACROS	Basic Programs
+MACROSTEXT	Basic Programs
+LOGSTDCOST	Cost Analysis - Busn
+MODULES	Internal Development
+EXECMODULE	Internal Development
+BDOMAINCUST	CRM
+LOCATIONS	Basic Modelling
+TREATCUST	CRM
+HSLOADACCOUNTS	Interfaces
+HSLOADACCOUNTSPAY	Interfaces
+HSLOADACCOUNTSGEN	Interfaces
+LOADTEXTMSG	Form Load Interface
+PARTIVLAST	Inventory Control
+PARTTRANSLAST2	Inventory Control
+DOCSERIAL	Production Control
+SUPFAMILY	Purchasing
+FOBPROF	Commission Sales
+FOBPROFITEMS	Commission Sales
+FOBDOC	Commission Sales
+FOBDOCITEMS	Commission Sales
+FOBPROFTEXT	Commission Sales
+FOBORDERSTEXT	Commission Sales
+FOBORDITEMSDOC	Commission Sales
+LOADACC	Interfaces
+DBLOADERRS	Form Load Interface
+DESTCODES	CRM
+FATSCHEDULE	Financ'l Statemt Gen
+OPENPARTORDERS	Price Quotations
+ORDERSTEXTONE	Sales
+DOCTEXT_D_ONE	Inventory Control
+DOCPAT	Sales
+CONSTHELP	Basic Programs
+KLINERANGE	Inventory Control
+BANKRECON2	Bank Reconciliations
+ACCRECON2	General Ledger
+AGENTFOBWAREA	Commission Sales
+AGENTORDERSWAREA	Sales
+PARTINPLISTS	Inventory Control
+PARTINFOBPLISTS	Inventory Control
+HSPART	Interfaces
+REMARKS	Purchasing
+COMCURRENCIES	Interfaces
+COMUNIT	Interfaces
+LOADPARTTREE	Interfaces
+COMPATTERNS	General Ledger
+CPROFITEMSTEXT	Price Quotations
+LOGBAL2	Executive Reports
+LOGBALDETCUST2	Executive Reports
+LOGBALDETAGENT2	Executive Reports
+LOGBALDETBRANCH2	Executive Reports
+LOGBALDETPART2	Executive Reports
+LOGBALDETAGENTCUST2	Executive Reports
+LOGBALDETCUSTPART2	Executive Reports
+LOGBALDETAGENTPART2	Executive Reports
+LOGBALDETBRANCHCUST2	Executive Reports
+LOGBALDETBRANCHPART2	Executive Reports
+LOGBALDETDOCS	Executive Reports
+CLOSEYINVOICES	Vendor Invoices
+CTYPE	CRM
+SINVOICESCONT	Vendor Invoices
+MANIVDUTIES	Importing/Shipping
+MANIVSDUTIES	Importing/Shipping
+ORDERSREP	Executive Reports
+GREPCLMNS	Executive Reports
+PREPAYBOOK	General Ledger
+WORKCSKILL	Factory Modelling
+SECTIONS_REC	General Ledger
+SECTIONS_PAY	General Ledger
+PORDERSREP	Executive Reports
+SALESREP	Executive Reports
+FNCCTYPE	Sales
+FOBPROFITEMSTEXT	Commission Sales
+ACCOPENBALTEXT	Sales Invoices
+ACCOPENBALTEXT_E	Sales Invoices
+GREPCLMNSHELP	Report Generator
+IVRECON	Sales Invoices
+USERMODULEPRIV	System Maintenance
+EXECMODULEA	Internal Development
+DBLOADERRS2	Interfaces
+MODULEUSERPRIV	System Maintenance
+USERMODPRIV	System Maintenance
+PRINTERSWIN	System Maintenance
+HAPOALIMCURRENCIES	Interfaces
+CTYPECUSTOMERS	Sales
+CIVDETAILS	Sales Invoices
+CIVSDETAILS	Sales Invoices
+TIVDETAILS	Sales Invoices
+TFNCIDETAILS	Cashiers
+CUSTREP	CRM
+SUPREP	Purchasing
+FNCFAMILY2	General Ledger
+FNCWARHS2	General Ledger
+FNCWARHSFAMILY2	General Ledger
+ECLEAN	System Maintenance
+CLEANWHERE	System Maintenance
+ALINEREP	Production Control
+SUBVERSIONS	Software Versions
+CLEANTABLES	System Maintenance
+INVOICEREP	Executive Reports
+TECHNICIANS	Customer Service
+DOCUMENTS_Z	Customer Service
+SUBJECTS	CRM
+SUBJECTBDOMAINS	CRM
+CUSTFIRSTQUEST	CRM
+TRANSORDER_Z	Customer Service
+LOGCOUNTERS	Inventory Control
+LOADORDERS	Sales
+CUSTOBLIGO	Sales
+OBLIGO_CHECKS	Sales
+SERNUMBERSTEXT	Serial Numbers
+AINVOICEITEMSTEXT	Sales Invoices
+SERNUMHISTORY	Customer Service
+NOCHARGECODES	Customer Service
+CALLTYPES	Customer Service
+SYMPTOMS	Customer Service
+SOLUTIONS	Basic Modelling
+OFFICEHOURS	Office Management
+OFFICECLOSED	Office Management
+CUSTNOTESDETAILS	CRM
+CUSTNOTESSUM	CRM
+DOCUMENTS_Q_A	Customer Service
+SERVREP	Customer Service
+DOCUMENTS_p	Sales
+TRANSORDER_q	Projects
+EINTER	Form Load Interface
+INTERCLMNS	Form Load Interface
+ORDPERPROF	Sales
+INTERFORMS	Form Load Interface
+TRANSPROJTEXT	Projects
+PROJTYPES	Sales
+FIXEDASSETS	Fixed Assets
+DEPRDEF	Fixed Assets
+ASSETGROUPS	Fixed Assets
+TAXDEPRDEF	Fixed Assets
+PROJREP	Sales
+LOADDOCUMENTS_D	Inventory Control
+DECRTYPES	Fixed Assets
+DOCTEXT_Q_2	Customer Service
+LOADDOCUMENTS_C	Inventory Control
+LOADINVOICES	Sales Invoices
+LOADAFORM	Production Control
+ASSETBAL	Fixed Assets
+TAXASSETBAL	Fixed Assets
+CUSTNOTETYPES	CRM
+BDOMAINLOAD	CRM
+USERTMTBL	Office Management
+TRANSORDER_p	Projects
+FOBPROF_CHANGES	Commission Sales
+DIARYYEARS	Office Management
+WEEKLYDIARYHOURS	Office Management
+ASSETREP	Fixed Assets
+CUSTEXTFILE	Sales
+PARTEXTFILE	Basic Modelling
+TAXASSETREP	Fixed Assets
+CPROFTYPES	Price Quotations
+PARTMNF	Purchasing
+MNFPART	Purchasing
+CALLSTATUSES	Basic Modelling
+DOCUMENTS_Q_B	Customer Service
+WEEKLYDIARY	Office Management
+FNCMONITEMS	General Ledger
+TRANSRSIGN	Laboratory
+DOCUMENTS_H	Inventory Control
+DOCUMENTS_R	Inventory Control
+TRANSORDER_R	Inventory Control
+TRANSORDER_r	Inventory Control
+ASSETGROUPACCOUNTS	Fixed Assets
+ASSETACCOUNTS	Fixed Assets
+DAILYDIARY	Office Management
+DAILYDIARYHOURS	Office Management
+DAILYCONTHOURS	Office Management
+FAMILYMALF	Customer Service
+MALFFAMILY	Customer Service
+CPROFSTATS	Price Quotations
+PROJORDERITEMS	Projects
+PROJITEMS	Projects
+LABELS	Inventory Control
+LABELSDEF	Inventory Control
+PROJLIST	Sales
+PORDERITEMSTEXT	Purchasing
+LANGUAGES	System Dictionaries
+LANGMONTHS	System Dictionaries
+LANGDAYS	System Dictionaries
+TRMONTHS	System Dictionaries
+TRDAYS	System Dictionaries
+TRCATALOG	System Dictionaries
+LANGCATALOG	System Dictionaries
+TRCOLUMNS	System Dictionaries
+LANGCOLUMNS	System Dictionaries
+TRENVIRONMENT	System Dictionaries
+LANGENVIRONMENT	System Maintenance
+LANGEXEC	System Dictionaries
+TREXEC	System Dictionaries
+TRMODULES	System Dictionaries
+LANGMODULES	System Dictionaries
+TRSCREENMSG	System Dictionaries
+LANGSCREENMSG	System Dictionaries
+TRREPTITLE	System Dictionaries
+LANGREPTITLE	System Dictionaries
+TRPROGPARAM	System Dictionaries
+LANGPROGPARAM	System Dictionaries
+TRPRINTERS	System Dictionaries
+LANGPRINTERS	System Dictionaries
+TRREPCLMNS	System Dictionaries
+LANGREPCLMNS	System Dictionaries
+TRFORMCLMNS	System Dictionaries
+LANGFORMCLMNS	System Dictionaries
+TREXTMSG	System Dictionaries
+LANGEXTMSG	System Dictionaries
+TREXTMSGTEXT	System Dictionaries
+LANGEXTMSGTEXT	System Dictionaries
+TRTRIGMSG	System Dictionaries
+TRTRIGMSGTEXT	System Dictionaries
+LANGTRIGMSG	System Dictionaries
+LANGTRIGMSGTEXT	System Dictionaries
+TRLOADMSG	System Dictionaries
+LANGLOADMSG	System Dictionaries
+IVCFNCITEMS	Payments
+TRHELP	System Dictionaries
+TRHELPEXEC	System Dictionaries
+LANGHELP	System Dictionaries
+TRHELPFORM	System Dictionaries
+TRFORMCLMNHELP	System Dictionaries
+LANGFORMCLMNHELP	System Dictionaries
+LANGHELPCLMNLANG	System Dictionaries
+TRHELPREPORT	System Dictionaries
+TRHELPPROGRAM	System Dictionaries
+CPROFTYPESTEXT	Price Quotations
+PARTSPEC	Inventory Control
+PARTSPECTYPES	Inventory Control
+PINVOICEREP	Executive Reports
+BARCODETRANS	Inventory Control
+PARTSPECONE	Inventory Control
+LOGPARTCUST	Inventory Control
+PROJPLAN	Projects
+PROJPLANTEXT	Projects
+MYLANGHELP	System Dictionaries
+MYLANGFORMCLMNHELP	System Dictionaries
+LANGLANG	System Dictionaries
+LANGCOLUMNSQ	System Dictionaries
+SPECVALUES	Inventory Control
+CPROFSTATUSLOG	Price Quotations
+CUSTBDOMAINS2	CRM
+CUSTTREATMENTS2	CRM
+ACCPERIODTEXT	Sales Invoices
+CHNGDOCUMENTS_D	Inventory Control
+CHNGTRANSORDER_D	Inventory Control
+TRCOLREP	Table Generator
+TRCOLFORM	Table Generator
+FUTUREDIARYHOURS	Office Management
+CHNGDOCUMENTS_N	Inventory Control
+CHNGTRANSORDER_N	Inventory Control
+UGROUPS	System Maintenance
+USERGROUP	System Maintenance
+GROUPUSER	System Maintenance
+MESSAGEACTIONS	System Maintenance
+MAILBOX	Basic Programs
+MAILBOXTEXT	Basic Programs
+MAILBOXSEND	Basic Programs
+MALFHIS	Customer Service
+TREATMENTHIS	Customer Service
+CPROFMODEL	Price Quotations
+FNCBAL_CURDATE	General Ledger
+FNCBAL2_CURDATE	General Ledger
+MESSAGEACTIONSGROUPF	System Maintenance
+MESSAGEACTIONSGROUPP	System Maintenance
+SERNFILE	Customer Service
+FNCMONITEMS_CURDATE	General Ledger
+ADDRESSEES	Basic Programs
+ATTACHMENTS	Basic Programs
+DIARIESSIGNATURE	Office Management
+FLEDGERS2	Ledger Report Gener.
+EMAILGROUP	System Maintenance
+PINVOICEITEMSQ	Vendor Invoices
+ADDRESSEES_FORW	Basic Programs
+MAILBOXREPLY	Basic Programs
+DOCUMENTS_m	Serial Numbers
+RMALOG	Serial Numbers
+MAILBOXTEXTLEFT	Basic Programs
+OBLIGO_ORDERS	Sales
+SYMPTOMHIS	Customer Service
+OBLIGO_FNCITEMS	General Ledger
+OBLIGO_TRANS	Sales
+MAILBOXREPLYCONT	Basic Programs
+DOCUMENTSTEXT	Inventory Control
+SPARTACTPRICE	Purchasing
+ACCFNCITEMS4	General Ledger
+DOCCONTACTS	Customer Service
+DOCCONTACTSIGN	Customer Service
+FAMILYSERVTYPES	Customer Service
+MAINTTYPES	Customer Service
+PARTSERV	Customer Service
+MAINTITEMS	Customer Service
+IVYORD	Vendor Invoices
+CLEANTABLESTEXT	System Maintenance
+TECHFAMILIES	Customer Service
+CALLSTATUSLOG	Customer Service
+OCCUPATIONS	General Ledger
+BUDGETREP	Budgets
+PORDSTATS	Purchasing
+PORDSTATUSLOG	Purchasing
+SERNUMBERSREP	Serial Numbers
+FOBPROFSINGLE	Commission Sales
+SERNMAINT	Customer Service
+PARTMAINT	Customer Service
+PORDUSERCODES	Purchasing
+CASHCONT	Cashiers
+PARTWARHSBAL	Inventory Control
+FNCPATDETAILS	General Ledger
+SUPDESTCODES	Purchasing
+PORTS	Importing/Shipping
+IMPFSTATUS	Importing/Shipping
+IMPFSTATUSLOG	Importing/Shipping
+IMPTERMS	Importing/Shipping
+SERVCALLREP	Customer Service
+IMPFILESTEXT	Importing/Shipping
+DELETEDCUST	Basic Modelling
+DELETEDSUP	Basic Modelling
+DELETEDPART	Basic Modelling
+IVPAY	Sales Invoices
+TRANSORDER_QW	Customer Service
+PORDERSTEXTONE	Purchasing
+BANKCLOSEDATES	Cashiers
+WARHSPARTINVLEVEL	Purchasing
+DOCUMENTS_I	Production Control
+FOBORDSTATUSLOG	Commission Sales
+ORDSTATUS	Sales
+FOBORDERSCONT	Commission Sales
+WTAXES	Basic Modelling
+ORDERDO	Sales
+PROCESSLIST	System Maintenance
+ORDSTATUSLOG	Sales
+FOBPROFSTATUSLOG	Commission Sales
+CPROFDO	Price Quotations
+SUPDESTCODESZM	Purchasing
+LOGBAL3	Executive Reports
+LOGBALDETCUST3	Executive Reports
+LOGBALDETPART3	Executive Reports
+LOGBALDETAGENT3	Executive Reports
+LOGBALDETBRANCH3	Executive Reports
+LOGBALDETCUSTPART3	Executive Reports
+LOGBALDETAGENTPART3	Executive Reports
+LOGBALDETBRANCHPART3	Executive Reports
+LOGBALDETAGENTCUST3	Executive Reports
+LOGBALDETBRANCHCUST3	Executive Reports
+LOGBALDETINVI	Executive Reports
+SUPEXTFILE	Purchasing
+PROJORD	Projects
+ACCRECONBAL	General Ledger
+PARTSREP	Basic Modelling
+SUPPARTARC	Production Control
+FC	Basic Programs
+L	Basic Programs
+F	Basic Programs
+LOGBAL4	Executive Reports
+EURORATES	Basic Modelling
+EUROHIS	Basic Modelling
+LOGBALDETSUP4	Executive Reports
+LOGBALDETSUPPART4	Executive Reports
+LOGBALDETPART4	Executive Reports
+LOGBALDETPORDI	Executive Reports
+LOGBAL5	Executive Reports
+LOGBALDETSUP5	Executive Reports
+LASTCUSTPARTSALES	Sales Invoices
+LASTSUPPARTBUYS	Vendor Invoices
+LOGBALDETSUPPART5	Executive Reports
+LOGBALDETPART5	Executive Reports
+LOGBALDETPINVI	Executive Reports
+FNCCUSTA	Basic Modelling
+LOADDOCUMENTS_P	Inventory Control
+PRDIORDIPRDI	Purchase Planning
+PRDIORDIORDI	Sales
+SERIALLOGFILE	Inventory Control
+CUSTOMSITEMS	Importing/Shipping
+SUPFORECAST	MRP
+CUSTOMSCOUNTRY	Importing/Shipping
+IMPFILECUSTOMS	Importing/Shipping
+CASH_CLOSED	Cashiers
+FS	Basic Programs
+LS	Basic Programs
+IVTYPESTEXT	Basic Modelling
+MAINTTYPESTEXT	Customer Service
+PARTDEFECTCODES	Inventory Control
+CUSTCPROF	Price Quotations
+FOBPROFTEXTONE	Commission Sales
+FIXEDASSETSTEXT	Fixed Assets
+ALLORDERS	Executive Reports
+PARAMETERS	Factory Modelling
+DEFECTCODEPARTS	Laboratory
+ALINEDEFECTCODES	Production Control
+LANGSYSCONST	System Dictionaries
+TRSYSCONST	System Dictionaries
+OPENPARTFOBORDERS	Price Quotations
+ALLORDERSDETCUST	Executive Reports
+ALLORDERSDETPART	Executive Reports
+ALLORDERSDETAGENT	Executive Reports
+ALLORDERSDETCUSTPART	Executive Reports
+ALLORDERSDETAGENTCUS	Executive Reports
+ALLORDERSDETAGENTPAR	Executive Reports
+ALLORDERSDETORDI	Executive Reports
+ALLORDERSDETFOBI	Executive Reports
+COLORS	Basic Programs
+RESOURCES	Sales
+MRPDEMAND	MRP
+MRPDEMANDRAW	MRP
+RESTAURANTS	Office Management
+DIARYRESOURCES	Office Management
+FOBDOCORD	Commission Sales
+RESOURCEUSAGE	Office Management
+CPROFCONT	Sales
+PARTMNFONE	Purchasing
+EXTENDWARRANTY	Customer Service
+PERIOD_CHOOSE	General Ledger
+CURRENCY_CHOOSE	General Ledger
+CURRENCY_CHOOSE2	General Ledger
+IVEXTENDWARRANTY	Customer Service
+INTERCLMNSFILE	Form Load Interface
+INTERCLMNSRECORDTYPE	Form Load Interface
+DEPRCOMMENTS	Fixed Assets
+MESSAGEACTIONSUSERF	System Maintenance
+CASHPAYDAYS	Cashiers
+MESSAGEACTIONSUSERP	System Maintenance
+CUSTNOTEEXTFILE	CRM
+DOC_p	Sales Invoices
+CASH_OTHER	Bank Reconciliations
+RECPRIVLOG	System Maintenance
+GANTTCOLORS	Office Management
+CONTPAYOPTIONS	Customer Service
+CONTSTATUSES	Customer Service
+CONTPAYMENTS	Customer Service
+CONTSTATUSLOG	Customer Service
+BRANCHIVTYPES	Branches
+IVTYPEBRANCHES	Basic Modelling
+PROJCONT	Customer Service
+PROJSTATUSES	Sales
+PROJTYPES2	Sales
+CUSTNOTESOPEN	CRM
+FNCLOT	General Ledger
+LOTFNCTRANS	General Ledger
+SERIALARC	Production Control
+PPROFITEMSTEXT	Vendor Price Quotes
+PROJPLANSIGN	Projects
+FAQHIS	Customer Service
+PROJPLANEXTFILE	Sales
+SERVCALLSWORK_Q	Customer Service
+DISCOUNTCURRENCIES	Interfaces
+LEUMICURRENCIES	Interfaces
+TRANSCONTACTS	Sales
+TRANSCONTACTSIGN	Sales
+PROJDEST	Projects
+CUSTBALANCE	Inventory Control
+PROJREPTYPES	Sales
+PROJPROF	Projects
+TRANSORDER_qp	Projects
+PROJSERIAL	Production Control
+PROJBUDGETS	Budgets
+MAILINTERFACEOUT	SCM
+MAILINTERFORMSOUT	SCM
+MAILINTERCOND	SCM
+MAILINTERCLMNSOUT	SCM
+MAILINTERFACEOUTUSER	SCM
+MAILINTERADDRUSER	SCM
+MAILINTERCLMNSIN	SCM
+INTERMESSAGES_IN	SCM
+INTERMESSAGES_INTEXT	SCM
+INTERMESSAGES_OUT	SCM
+MAILINTERCUST	SCM
+MAILINTERSUP	SCM
+SERVCALLS	Customer Service
+SERVCALLITEMS	Customer Service
+SERVCONT	Customer Service
+DOCPROJ	Projects
+TRANSPROJ	Projects
+PROJPLANONE	Projects
+PERSONNELLOAD	CRM
+QUALIFICATIONS	Human Resources
+QUALDEGREES	Human Resources
+USERQUALIFICATIONS	Human Resources
+QUALUSERS	Customer Service
+PORDTYPES	Purchasing
+PORDTYPESTEXT	Purchasing
+PROJINVOICES	Projects
+BASEINDEXES	Fixed Assets
+FORMWRNMSG	System Maintenance
+FORMWRNMSGTEXT	Form Generator
+FORMWRNMSGUSER	Form Generator
+FORMWRNMSGACTIONS	System Maintenance
+DOCQ_CHANGES	Customer Service
+SECURE_CHECKS	Sales
+FNCPROJ	Projects
+HEBENGDICT	System Dictionaries
+CUSTMSG	Sales
+SUPPLIERSTEXT	Purchasing
+ORDINVOICES	Sales Invoices
+PROJORDITEMS	Projects
+TRANSIMPFILE	Importing/Shipping
+TRANSORDER_po	Projects
+CTYPE2	CRM
+STATES	Inventory Control
+ORDISTATUSES	Sales
+FNCITEMS_CHANGES_ONE	General Ledger
+GENDIARY	Office Management
+FUTUREGENDIARY	Sales
+PDPROFITEMSTEXT	Vendor Price Quotes
+INTERMESSAGESITEMS	SCM
+MAILINTERREG	SCM
+MAILINTERSUPCOUNTRY	SCM
+PORTALSUP	SCM
+SUPUNSPSC	SCM
+SUPREJECTEMAIL	SCM
+PDPROFSTATS	Vendor Price Quotes
+MAILINTERPARTNERS	SCM
+PDPROFSTATUSLOG	Vendor Price Quotes
+PDPROFCONT	Vendor Price Quotes
+EXTFILES	Vendor Price Quotes
+MAILINTERDISTRIBUTE	Vendor Price Quotes
+PPROFCONT	Purchasing
+PPROFSTATS	Purchasing
+PPROFSTATUSLOG	Internal Development
+UNSPSC	Inventory Control
+UNSPECS	Inventory Control
+PARTUNSPECS	Inventory Control
+PDPROFITEMSUNSPECS	Inventory Control
+LINEUNSPECS	Inventory Control
+PPROFITEMSUNSPECS	Inventory Control
+PORDERITEMSUNSPECS	Inventory Control
+EI_USERS	SCM
+LINEUNPARTS	Price Quotations
+LINEUNSPSCPARTS	Inventory Control
+COMPAREUNSPECS	Inventory Control
+SUPORDSTATUSLOG	Purchasing
+CUSTMSG2	CRM
+DIALOG	SCM
+DIALOGTEXT	SCM
+DIALOGSUM	SCM
+CUSTPROFSTATUSLOG	Price Quotations
+UNSPECVAL	Inventory Control
+COURSETYPES	Human Resources
+CREDITPOINTS	Human Resources
+COURSESTATUSES	Human Resources
+STUDCOURSES	Human Resources
+STUDCOURSESTEXT	Human Resources
+COURSEPARTICIPANTS	Human Resources
+USERCHILDREN	Human Resources
+USERRELATIONS	Human Resources
+USERLANGS	Human Resources
+USEREDUCATION	Human Resources
+USERMEDTESTDOCS	Human Resources
+USERPOSHISTORY	Human Resources
+CANDINTERVIEWS	Human Resources
+CANDREFEREES	Human Resources
+CANDEXPERIENCE	Human Resources
+USERREVIEWS	Human Resources
+USERSTATUSES	Office Management
+LICENSETYPES	Human Resources
+INSTTYPES	Human Resources
+INSTITUTES	Human Resources
+DEGREES	Human Resources
+POSITIONSTEXT	Human Resources
+USERSBTEXT	Office Management
+POSITIONTESTS	Human Resources
+POSITIONTESTS2	Human Resources
+INTERVIEWS	Human Resources
+POSINTERVIEWS	Human Resources
+POSINTERVIEWDOCS	Human Resources
+HEALTHSERVS	Human Resources
+DEPARTMENTS	Human Resources
+INSTDEPARTMENTS	Human Resources
+CANDINTERVIEWSTEXT	Human Resources
+USERREVIEWSTEXT	Human Resources
+MEDTESTS	Human Resources
+POSQUALIFICATIONS	Human Resources
+USERMEDTESTS	Human Resources
+USERSINTEAM	Human Resources
+USERSPROJM	Human Resources
+USERSPROJS	Human Resources
+DISTRIBUTEDEF	SCM
+USERSB_ONE	Office Management
+CUSTSPEC	Inventory Control
+CUSTSPECONE	CRM
+CUSTSPECTYPES	CRM
+CUSTSPECVALUES	Inventory Control
+CUSTRELTYPES	CRM
+CUSTOMERSREL	Sales
+RAWPARTARC	Basic Modelling
+USERCOURSES	Human Resources
+FLUENCIES	Human Resources
+USEREDUCATIONTEXT	Human Resources
+COURSEPOSITIONS	Human Resources
+COURSEDOCUMENTS	Human Resources
+DOCTEXT_Z_ONE	Inventory Control
+ORDISTATUSLOG	Sales
+BOOKLOCATIONS	Office Management
+BOOKTYPES	Office Management
+BOOKSUBJECTS	Office Management
+PUBLISHERS	Office Management
+BOOKSTEXT	Office Management
+BOOKGEN	Office Management
+ISSPLANBYPART	Inventory Control
+HELPTOPICS	Form Generator
+EXECHELPTOPIC	Form Generator
+HELPTOPICEXEC	Form Generator
+SUPBDOMAINS	Purchasing
+HTMLFORMAT	System Maintenance
+HTMLFILES	System Maintenance
+FOBORDERITEMSTEXT	Commission Sales
+FOBDOCUMENTS	Commission Sales
+FOBORDDOCUMENTS	Commission Sales
+FOBCREDITNOTES	Commission Sales
+FOBCREDITNOTEITEMS	Commission Sales
+CUSTFOBPROF	Commission Sales
+CUSTFOBORDERS	Commission Sales
+PARTFOBORDERS	Price Quotations
+FOBDOCCREDITNOTES	Commission Sales
+PARTFOBPROF	Commission Sales
+XMLTAGS	Form Load Interface
+INTERFXMLTAGS	Form Load Interface
+USERSC	Human Resources
+INTERVIEWSTATUSES	Human Resources
+HOWHEARD	Human Resources
+CONTACTMETHODS	Human Resources
+USERSCURENV	Office Management
+STEPS	Projects
+SUBSTEPS	Projects
+STEPSTATUSES	Sales
+PROJSTEPS	Projects
+PROJSUBSTEPS	Projects
+STEPSTATUSLOG	Projects
+PROJTYPESTEPS	Projects
+PROJTYPESUBSTEPS	Projects
+PROJPLANS	Projects
+PROJSTEPSTEXT	Projects
+PROJSUBSTEPSTEXT	Projects
+LOANGUARANTORS	Sales
+LOANSTATUSLOG	Sales
+LOANSTATUS	Sales
+LOANTABLETYPES	Sales
+LOANSTEXT	Sales
+LOANGROUPS	Loans
+LOANSREP	Loans
+PAYDAYS	Cashiers
+PROJSUBSTEPSONE	Projects
+PORDIORDI	Sales
+SONSERN	Serial Numbers
+PARTAVAIL	Inventory Control
+BONUSES	Sales
+CUSTBONUSES	Sales
+SHIPTO	Sales
+SHIPTO2	Sales
+TAXGROUPS	Sales
+TAXPERCENT	Sales
+EMPDEPT	Human Resources
+MRKPOSITIONS	Sales
+BOOKS	Office Management
+BOOKCOPIES	Office Management
+BOOKLOANSBYUSER	Office Management
+BOOKLOANS	Office Management
+BOOKUSERLIST	Office Management
+SERACT	Production Control
+SERACTALT	Production Control
+LOANTABLEDEF	Sales
+LOANS	Loans
+LOANPAYDATES	Sales
+LOANPAYMENTS	Loans
+ZONECOUNTRIES	Inventory Control
+SHIPPINGPRICES	Sales
+ZONESHIPPINGPRICES	Sales
+SHIPTYPEPRICES	Sales
+MASAVFORCUST	Billing
+VCLINFO	Serial Numbers
+VCLMODELS	Serial Numbers
+SERNEXTFILE	Serial Numbers
+VCLINFOONE	Serial Numbers
+PARTREV	Basic Modelling
+PARTREVSINGLE	Basic Modelling
+PARTREVUSER	Basic Modelling
+PHONEBDOMAINS	CRM
+NEWSPAPERS	Human Resources
+REJECTREASONS	Human Resources
+TESTTYPES	Human Resources
+ABILITIES	Human Resources
+RECRUITMETHODS	Human Resources
+AWARDS	Human Resources
+JOBSTATUSES	Human Resources
+JOBS	Human Resources
+JOBABILITIES	Human Resources
+JOBINTERVIEWS	Human Resources
+JOBCANDIDATES	Human Resources
+JOBPUBLISH	Human Resources
+JOBTESTTYPES	Human Resources
+JOBSTEXT	Human Resources
+USERAWARDS	Human Resources
+CANDTESTTYPES	Human Resources
+SALARYOFFERS	Human Resources
+JOBCANDINTERVIEWS	Human Resources
+JOBCANDTESTS	Human Resources
+REPCLMNSHTML	Report Generator
+EREPHTML	Report Generator
+REPCLMNSTITLEHTML	Report Generator
+HTMLCOLORS	System Maintenance
+COLORDATA	System Maintenance
+HTMLFONTS	System Maintenance
+FONTDATA	System Maintenance
+RELCUST	Sales
+PHONEBRELCUST	Sales
+ECO	Engineering
+ECOREASONS	Engineering
+ECOSTATS	Engineering
+ECOSTATUSLOG	Engineering
+ECOTEXT	Engineering
+ECOUSERLIST	Engineering
+ECOUSER	Engineering
+ECOPART	Engineering
+TREATMENTSRO	CRM
+CUSTOMERSRO	CRM
+JOBSALARYOFFERS	Human Resources
+CANDJOBS	Human Resources
+POSITIONTESTTYPES	Human Resources
+QUALMEDTESTS	Human Resources
+CANDREFEREESTEXT	Human Resources
+CUSTRESTRICTEDLOG	Basic Modelling
+USERSTATUSLOG	Human Resources
+PARTSPECIND1A	Sales
+PARTSPECIND2	Sales
+PARTSPECIND3	Sales
+PARTSPECIND4	Sales
+PARTSPECIND5	Sales
+BILLTO	Sales
+PHONEBOOKA	Sales
+PHONEBOOKMODULES	Office Management
+WWWPROG	MarketGate-Basic
+HTMLTEXT	MarketGate-Basic
+WWWCPROFTYPES	Price Quotations
+USERSBGEN	Human Resources
+MAILBOXFOLDERS	Basic Programs
+FOBORDTYPESTEXT	Commission Sales
+FOBORDTYPES	Commission Sales
+FOBORDERSREP	Executive Reports
+FOBDOCSTATUSLOG	Commission Sales
+FOBDOCSTATS	Commission Sales
+FOBDOCREP	Executive Reports
+WEBCONST	MarketGate-Basic
+ECOSERIAL	Engineering
+ECOPARTREV	Engineering
+ECOREVISIONS	Engineering
+REPCLMNSCHOOSE	Report Generator
+SERENGDATA	Factory Modelling
+UNSPECSTEXT	Inventory Control
+SPECGROUPS	Inventory Control
+MSVCOMPDATACUST	Interbk Trans Proces
+SYSHTMLTEXT	MarketGate-Basic
+PROFITREE	Price Quotations
+ORDITREE	Sales
+LEASINGGROUPS	Leasing
+LEASING	Leasing
+LEASINGOTHERPAYMENTS	Leasing
+LEASINGPAYMENTS	Leasing
+LOANBANKGUARANTORS	Sales
+LEASINGREP	Leasing
+ASSEMBLYSTATUSES	Inventory Control
+ASSEMBLYSTATUSLOG	Inventory Control
+WWWCPROFUSERSB	Human Resources
+BOOKSTEXT2	Office Management
+INVOICEITEMSINTRASTA	Europe
+POSITIONSTEXTB	Human Resources
+JOBSTEXTB	Human Resources
+PROJITEMSTEXT	Projects
+PROJACTSTEXT	Projects
+PROJACTS	Projects
+PROJACTTREE	Projects
+PROJVERSIONS	Projects
+PROJTEAMS	Projects
+PROJTEAMMEMBERS	Projects
+PROJACTSONS	Projects
+PROJACTGSONS	Projects
+PROJACTHR	Projects
+PROJITEMSONE	Projects
+PROJWARHSBAL	Inventory Control
+TRANSLATEUSERS	Software Versions
+CONTRENDREASONS	Human Resources
+MAILFOLDERS	Basic Programs
+CUSTRELSUBJECTS	CRM
+LOANCLOSEDATES	Sales
+PARTUNSPECSCONT	Inventory Control
+UNSPECUNIT	Inventory Control
+CHNGDOCUMENTS_W	Inventory Control
+CHNGTRANSORDER_W	Inventory Control
+EXTFILETYPES	Basic Modelling
+SERIALSTATUS	Production Control
+SERIALSTATUSLOG	Production Control
+FAULTS	MRB
+FAULTSTATUSES	MRB
+SEVERITY	MRB
+FAULTSERNUMBERS	MRB
+FAULTSTEXT	MRB
+QUALITYAPPDECISION	MRB
+REASONFORDEVIATION	MRB
+PROBLEMFIELD	MRB
+SOLUTIONDESC	MRB
+CLOSINGPROBLEM	MRB
+PREVENTIVEACTION	MRB
+FAULTDESC	MRB
+FAULTWORKINGHOURS	MRB
+COMMITTEEGROUPS	MRB
+GROUPMEMBERS	MRB
+MRBCOMMITTEE	MRB
+MEMBERSIGNATURE	MRB
+MRBCOMMTEXT	MRB
+ENGINEERCODES	MRB
+ENGRECOMMEND	MRB
+TRANSACTIONTOFAULT	MRB
+LINKFAULTS	MRB
+FAULTMAIL	MRB
+DETECTIONPLACES	MRB
+FAULTSOLUTION	MRB
+ATTACHEDFAULTS	MRB
+FAULTSTATUSLOG	MRB
+DININGROOMS	Office Management
+COURSEGROUPS	MarketGt-Restaurants
+COURSESA	MarketGt-Restaurants
+FOODORDERS	Office Management
+FOODORDERITEMS	Office Management
+IMPLICATIONS	Engineering
+ECOIMPLICATIONS	Engineering
+INSURANCEAGENTS	Human Resources
+JOBTYPES	Human Resources
+JOBREQUIREMENTS	Human Resources
+SUCCESSFULLJOBINTER	Human Resources
+USERJOBINTER	Human Resources
+MEETING	Human Resources
+QUALIFICATIONPERUSER	Human Resources
+USERBANK	Office Management
+PURDEMANDSTEXT	Purchasing
+PURDEMANDSTATS	Purchasing
+GLEASINGPAYMENTS	Leasing
+LINKING	Sales
+REPCLMNSTRIG	Report Generator
+PAYMENTDEF	Sales
+LANGREPCLMNSHELP	System Dictionaries
+ORDDISTR	Delivery Scheduling
+CUSTWEEKDAY	Sales
+DISTRLINES	Inventory Control
+DISTRDATES	Delivery Scheduling
+DISTRDATELINES	Delivery Scheduling
+DISTRORDERS	Delivery Scheduling
+PIVDETAILS	Vendor Invoices
+REPCLMNSHIDE	Report Generator
+DATEFORMATS	System Maintenance
+PROGDESIGN	System Maintenance
+REPDESIGN	System Maintenance
+REPCOLDESIGN	System Maintenance
+REPCOLHTMLDESIGN	System Maintenance
+PQSUMMARY	Projects
+PQCALLS	Projects
+PQISSUE	Projects
+PQOPENGRV	Projects
+PQOPENPORDERS	Projects
+PQPROJREP	Projects
+PQPURDEMANDS	Projects
+PQSUPINVOICES	Projects
+PQTRANS	Projects
+PQDELIVERY	Projects
+PROJLINK	General Ledger
+LOADMSPROJECT	Projects
+PROJOPENPURD	Projects
+PROJOPENPORD	Projects
+PROGPARAMHTML	Procedure Generator
+REPHTMLDESIGN	System Maintenance
+CUSTNOTEPHONE	CRM
+CUSTNOTESDEL	CRM
+SUPNOTESSUM	CRM
+CUSTNOTESIGN	CRM
+DIARIES	Office Management
+SUPNOTEEXTFILE	Purchasing
+LOGCOUNTERSISSUE	Factory Modelling
+PARTAVAILISSUE	Factory Modelling
+PARTAVAILLOTORDI	Factory Modelling
+PARTCONFIG	Basic Modelling
+GENINVOICES	Sales
+GENDOCUMENTS	Inventory Control
+LINKINGDETAILS	Sales
+PROGDESIGN2	System Maintenance
+STATMALFUNCTIONS	Basic Modelling
+PROJACTTREESUM	Projects
+DOCCUSTNOTES	CRM
+ORDCUSTNOTES	CRM
+PURDEMANDSTATUSLOG	Purchasing
+CUSERDIARY	Office Management
+FOBPROFSTATS	Price Quotations
+COSTCENTERS1Q	Cost Allocation
+COSTCENTERS2Q	Cost Allocation
+COSTCENTERS3Q	Cost Allocation
+COSTCENTERS4Q	Cost Allocation
+COSTCENTERS5Q	Cost Allocation
+BULLETINBOARD	Office Management
+BULLETINBOARDTEXT	Office Management
+UGROUPUSERS	System Maintenance
+PDEALPORDERS	Purchasing
+PROJACTLOG	Projects
+TRANSORDER_DN	Inventory Control
+TRANSORDER_qc	Projects
+BUDGETBAL	Budgets
+BUDGETBAL2	Budgets
+ACCRECONITEMS	General Ledger
+ACCRECONITEMS2	General Ledger
+FNCITEMS2	General Ledger
+DOCUMENTS_e	Projects
+RPROJACTS	Projects
+RPROJACTLOG	Projects
+RPROJVERSIONS	Projects
+RPROJACTSVER	Projects
+RPROJACTLINK	Projects
+PALMDOC_C	Internet - Palm OLD
+CUSTOBLIGOENV	Sales
+CUSTOMERSCHAIN	Sales
+DOCEDI	EDI to Store Chains
+UPGPREINSTALL	Software Versions
+QUESTFORMTEXT	Basic Programs
+PROJACTPRED	Projects
+PROJACTSUCC	Projects
+REPCLMNINCTRIG	Report Generator
+PQENTRY	Projects
+BULLETINTYPES	Office Management
+USERCUSTNOTETYPES	CRM
+PROJACTTSAVE	Projects
+PROJACTTSAVETEXT	Projects
+PROJTYPECONFIRMLIST	Sales
+PROJVERCONFIRM	Projects
+PROJVERSTATUSES	Projects
+PROJVERSTATUSLOG	Projects
+MAILBOXTEXTRO	Basic Programs
+MAILBOXTEXTLEFTRO	Basic Programs
+PARTBALANCEENV	Inventory Control
+MRPSCHEDULE	Production Control
+FIBCURRENCIES	Interfaces
+UPGRADESTEXT	Software Versions
+OBLIGO_IV	Sales
+PRICESOURCE	CRM
+EREPHTMLGRAPH	Report Generator
+CUSTOMERSRELTEXT	Sales
+PROJVERSIONSTEXT	Projects
+CONTACTCOURSES	Human Resources
+ASSETGROUPSTATE	Fixed Assets
+STATEACCOUNTS	United States
+IVTYPESTEXTLANG	Basic Modelling
+PARTTEXTLANG	Basic Modelling
+DOCTEXT_Z_TWO	Inventory Control
+DOCTEXT_D_TWO	Inventory Control
+ORDERSTEXTTWO	Sales
+FOBPROFTEXTTWO	Commission Sales
+CPROFTEXTTWO	Price Quotations
+CPROFTYPESTEXTLANG	Price Quotations
+PORDTYPESTEXTLANG	Purchasing
+PORDERSTEXTTWO	Purchasing
+FOBORDTYPESTEXTLANG	Commission Sales
+MAINTTYPESTEXTLANG	Customer Service
+CURRENCYBASKET	Sales
+ADJPRICES	Sales
+AGEDEBTS_WORKAREA	Sales Invoices
+PROJPORDERITEMS	Projects
+PQCUSTINVOICES	Projects
+PQIENTRY	Projects
+PQOPENORDERS	Projects
+PQOPENCALLS	Projects
+PQOPENSHIPMENTS	Projects
+PQOPENREPORTS	Projects
+PQOPENPROJPAY	Projects
+PQOPENSERVPAY	Projects
+CAMPAIGNS	CRM
+CAMPAIGNCUST	CRM
+CAMPAIGNTOPICS	CRM
+CAMPAIGNUSERS	CRM
+CUSTCAMPAIGNS	CRM
+CUSTCAMPAIGNSA	CRM
+KLALITIV	Sales Invoices
+PROJCHANGESUPINV	Projects
+PROJCHANGECUSTINV	Projects
+PROJCHANGEORDERS	Projects
+PROJCHANGEPORDERS	Projects
+PROJCHANGECPROF	Projects
+PROJCHANGEPURD	Projects
+EDI_ORD	EDI to Store Chains
+EDI_DOCD_ACC	EDI to Store Chains
+EDI_DOCN	EDI to Store Chains
+OPENSERVCALLS	Customer Service
+CAMPAIGNWA	CRM
+FAQ	Customer Service
+FAQTEXT	Customer Service
+FAQMENU	Customer Service
+MFAQ	Customer Service
+FATFAQ	Customer Service
+FAQTEXT2	Customer Service
+FAQ2	Customer Service
+FAQMENU2	Customer Service
+CAMPAIGNCUSTNOTES	CRM
+MAILBOXFORW	Basic Programs
+INTERCLMNSFILEOUT	Form Load Interface
+PROJCHANGECUSTDOC	Projects
+PROJCHANGESUPDOC	Projects
+PQEMP	Projects
+PQWKC	Projects
+PROJPROFIT	Projects
+PQSUBPROJECTS	Projects
+PROJCHANGESERIAL	Projects
+CHANGEREQUESTS	Projects
+CHANGEREQUESTSTEXT	Projects
+TECHNICALSPECS	Projects
+RPROJACTSPECS	Sales
+PROJACTSPECS	Sales
+PQKIT	Projects
+PQBULK	Projects
+PROFILE	System Maintenance
+PROFILEPRIV	System Maintenance
+PROFILECOLORS	System Maintenance
+PROFILEFORMS	System Maintenance
+PROFILEMENUS	System Maintenance
+PROFILEFORMPRIV	System Maintenance
+PROFILEFORMCLPRIV	System Maintenance
+IVWORKAREA	Vendor Invoices
+REMITTO	Sales
+ORDERSTEXTHEADER	Sales
+CPROFTEXTHEADER	Price Quotations
+DOCTEXT_D_HEADER	Sales
+DOCTEXT_Z_HEADER	Sales
+FOBPROFTEXTHEADER	Sales
+ACCOPENBALTEXTHEADER	Sales
+PORDERSTEXTHEADER	Sales
+FOBORDSTATUS	Commission Sales
+STATUSARCS	Sales
+STATUSRESTRICTEDFROM	Sales
+STATUSRESTRICTEDTO	Sales
+STATUSAUTOMAIL	Sales
+PROGFORMATS	Procedure Generator
+PROGFORMATREPS	Procedure Generator
+TRANSORDER_m	Inventory Control
+COMPANIES	General Ledger
+SPEC1VALUES	Basic Programs
+SPEC2VALUES	Basic Programs
+SPEC3VALUES	Basic Programs
+SPEC4VALUES	Basic Programs
+SPEC5VALUES	Basic Programs
+SPEC6VALUES	Basic Programs
+SPEC7VALUES	Basic Programs
+SPEC8VALUES	Basic Programs
+SPEC9VALUES	Basic Programs
+SPEC10VALUES	Basic Programs
+PARTSPECWORKAREA	Inventory Control
+PIVSTATS	Vendor Invoices
+IVSTATUSLOG	General Ledger
+AIVSTATS	Sales Invoices
+BIVSTATS	Cashiers
+CIVSTATS	Sales Invoices
+EIVSTATS	Cashiers
+FIVSTATS	Export Invoices
+HIVSTATS	Payments
+QIVSTATS	Bank Transfers
+RIVSTATS	Sales Invoices
+SIVSTATS	Vendor Invoices
+TIVSTATS	Cashiers
+YIVSTATS	Vendor Invoices
+UIVSTATS	Cashiers
+CUSTCTYPELOG	Sales
+DECFORMATS	System Maintenance
+COURSESTATUSLOG	Human Resources
+PQSERCOST	Projects
+PQKITPROJ	Projects
+ADOCSTATS	Inventory Control
+DOCSTATUSLOG	Inventory Control
+DOCUMENTSA	Inventory Control
+CDOCSTATS	Inventory Control
+DDOCSTATS	Inventory Control
+EDOCSTATS	Inventory Control
+FDOCSTATS	Inventory Control
+GDOCSTATS	Inventory Control
+JDOCSTATS	Importing/Shipping
+LDOCSTATS	Inventory Control
+NDOCSTATS	Inventory Control
+ODOCSTATS	Inventory Control
+PDOCSTATS	Inventory Control
+RDOCSTATS	Inventory Control
+TDOCSTATS	Inventory Control
+WDOCSTATS	Inventory Control
+ZDOCSTATS	Inventory Control
+pDOCSTATS	Inventory Control
+eDOCSTATS	Inventory Control
+OBLIGO_PROJ	Sales
+ALSERNTRANS	Serial Numbers
+TRIGMSGPARAMS	Form Generator
+COSTC2FNCITEMS	Cost Allocation
+COSTC2FNCITEMS2	Cost Allocation
+COSTC3FNCITEMS	Cost Allocation
+COSTC3FNCITEMS2	Cost Allocation
+COSTC4FNCITEMS	Cost Allocation
+COSTC4FNCITEMS2	Cost Allocation
+COSTC5FNCITEMS	Cost Allocation
+COSTC5FNCITEMS2	Cost Allocation
+COMSTATS	Payments
+COMMISSIONS	Sales Reps
+COMSTATUSLOG	Sales Reps
+COMMISSIONSTEXT	Sales Reps
+COMTEXT	Sales Reps
+COMTEXTHEADER	Sales Reps
+COMTEXT_E	Sales Reps
+OPENCOMMISSIONS	Sales Reps
+COMITEMS	Sales Reps
+IVCOMITEMS	Sales Reps
+WARHSBALREP	Inventory Control
+CUSTSPEC1VALUES	Basic Programs
+CUSTSPEC2VALUES	Basic Programs
+CUSTSPEC3VALUES	Basic Programs
+CUSTSPEC4VALUES	Basic Programs
+CUSTSPEC5VALUES	Basic Programs
+CUSTSPEC6VALUES	Basic Programs
+CUSTSPEC7VALUES	Basic Programs
+CUSTSPEC8VALUES	Basic Programs
+CUSTSPEC9VALUES	Basic Programs
+CUSTSPEC10VALUES	Basic Programs
+OPENPARTPORDERS	Price Quotations
+PROJBAL	Inventory Control
+GLPERIODUSER	General Ledger
+DOCORDI	Sales
+IVORDI	Sales
+ASSEMBLYREP	Inventory Control
+TRANSORDER_H_ONE	Inventory Control
+TRANSORDER_M_SON	Inventory Control
+TRANSORDER_M_ONE	Inventory Control
+PORDI_CHANGE_LOG	Purchasing
+PORD_CHANGE_LOG	Purchasing
+ORDI_CHANGE_LOG	Sales
+ORD_CHANGE_LOG	Sales
+ORDERS_CHANGE_LOG	Sales
+PORDERS_CHANGE_LOG	Purchasing
+TFNCITEMS3	Cashiers
+ARFNCITEMS3_P	General Ledger
+ACCFNCITEMS2_P	General Ledger
+CFNCITEMS2	Cashiers
+CUSTRELBYTYPE	Sales
+CUSTRELBYSUBJECT	Sales
+BURDENTYPEDATES	Cost Allocation
+BUDVERSIONSLOG	Budgets
+BUDGETPLN_CHANGES	Budgets
+BUD_CHANGE_LOG	Budgets
+TRANSORDERTEXTZ	Inventory Control
+DEPRTABLES	Fixed Assets
+DEPRTABLEMONTHS	Fixed Assets
+YEARDEPR	Fixed Assets
+SUPMSG	Purchasing
+TRANSCUSTNOTES	CRM
+DOC_Q_ZOOM	Customer Service
+FRGROUPS_SEARCH	Basic Programs
+SKILLCOSTDATES	Cost Analysis - Busn
+XCOLORS	Fashion
+PARTXCOLORS	Fashion
+SIZESBARS	Fashion
+CUSTNOTESTATUSES	CRM
+CUSTNOTESTATUSLOG	CRM
+UPGTESTS	Software Versions
+UPGTESTRES	Software Versions
+PRIVLOG	System Maintenance
+INITPARTCOST	Cost Analysis - Busn
+TEMPLATES	Form Generator
+SHVA_TERMINALS	Interface to Shva
+CCSTATUSES	CRM
+LEADSOURCES	CRM
+CCSTATUSLOG	CRM
+FRSOURCES	Audit Files
+FRDEFAULTS	Audit Files
+FREPORTS	Audit Files
+FRITEMS	Audit Files
+FRGROUPS	Audit Files
+FRSTATUSES	Audit Files
+FRSTATUSLOG	Audit Files
+FREPORTSTEXT	Audit Files
+FRITEMS2	Audit Files
+FRISTATUSES	Audit Files
+FRISTATUSLOG	Audit Files
+FRTRANSITEMS2	Audit Files
+FRITEMS2TEXT	Audit Files
+FRDATES	Audit Files
+FRDETAILS	Audit Files
+FRDETAILSTEXT	Audit Files
+FRCASH	Audit Files
+FRCASHTRANS	Audit Files
+FRCOLUMNS	Audit Files
+FRGROUPS_DET2	Audit Files
+FRGROUPSTEXT	Audit Files
+FRGSTATUSLOG	Audit Files
+FRITEMS3	Audit Files
+FREPORTSOURCES	Audit Files
+FRGROUPTRIALBAL	Audit Files
+FREPORTSOURCES2	Audit Files
+INFOLEVELSTYLE2	Audit Files
+DISTRLINEUSER	Delivery Scheduling
+DISTRORDMATRIX	Delivery Scheduling
+DISTRORDMATRIXTOTAL	Delivery Scheduling
+FRBALANCE	Audit Files
+INFOLEVELSTYLE	Financ'l Statemt Gen
+RESTRICTEDACC	Sales
+PIVORDI	Purchasing
+PIVORDICONT	Purchasing
+FRTRANS	Audit Files
+FRTRANSITEMS	Audit Files
+FRTRANS2	Audit Files
+ORDDISTRWITHOUTLINE	Delivery Scheduling
+PROJPROFITONE	Projects
+PQOPENORDERSCOST	Projects
+PAYMENTTYPEPAY	Basic Modelling
+LOGCOUNTERSMPART	Inventory Control
+PARTAVAILMPART	Inventory Control
+PARTINCUSTPLISTS	Inventory Control
+MATRIXSUM	Fashion
+MATRIX	Fashion
+PROGPARAMTRIG	Report Generator
+WARHSINVLEVEL	Inventory Control
+PQIPROFORMA	Projects
+FCLMNINTER	Form Generator
+DOCSTATUSES	System Maintenance
+QUESTLINESTEXT	Basic Programs
+QUESTIONSTEXT	Basic Programs
+COSTINGLOG	Cost Analysis - Busn
+FRGROUPS_UPD	Audit Files
+PROJACT_CHANGE_LOG	Projects
+DEALITEMSORDI	Sales
+FRTITLES	Audit Files
+PROJACTTYPES	Projects
+PROJSERIALWARHSBAL	Inventory Control
+H_CITIES	Sales
+H_POB	Sales
+H_STREETS	Sales
+H_ZIPCODES	Sales
+H_FINDZIP	Sales
+HIVDETAILS	Payments
+DOCUMENTS_ep	Projects
+ENVIRONMENTTITLE	System Maintenance
+TODOLIST	Basic Programs
+DOCTODOLIST	BPM
+DOCTODOLISTLOG	BPM
+ALERTDATE	System Maintenance
+PARTNAMEPATTERNS	Basic Modelling
+BRANCHESPRIV	Office Management
+AGENTSPRIV	Office Management
+CUSTPARTDISCONE	Sales
+LEADS	CRM
+CHNGDOCUMENTS_P	Inventory Control
+CHNGTRANSORDER_P	Inventory Control
+FRTYPES	Audit Files
+TODOLISTCUST	BPM
+TODOLISTSUP	BPM
+FRGROUPS2	Audit Files
+FRGROUPS_CASH	Audit Files
+FRGROUPS_DET	Audit Files
+ARFNCITEMS4	General Ledger
+H_STZIPCODES	Sales
+PHONEBOOKTEXT	Sales
+LEADSREP	CRM
+LEADTYPES	CRM
+USERSCSNAMECHOOSE	Human Resources
+DOCPORDI	Purchasing
+PRODREPORTLINES	Production Control
+CAMPAIGNTOPICSTEXT	CRM
+ANALYSESRESULTS	COA
+TRANSORDER_L_ONE	Laboratory
+TRANSORDER_G_ONE	COA
+TRANSLABANALYSES_ONE	COA
+ANALYSESMETHODS	COA
+ANALYSESTEXT_HEADER	COA
+ANALYSESTEXTA_ONE	COA
+ANALYSESTEXTB_ONE	COA
+ANALYSESTEXTA_TWO	COA
+ANALYSESTEXTB_TWO	COA
+ANALYSISDOCS	COA
+STATUSMAILERRLOG	System Maintenance
+STATUSMAILERRLOGTEXT	System Maintenance
+SPEC11VALUES	Basic Programs
+SPEC12VALUES	Basic Programs
+SPEC13VALUES	Basic Programs
+SPEC14VALUES	Basic Programs
+SPEC15VALUES	Basic Programs
+SPEC16VALUES	Basic Programs
+SPEC17VALUES	Basic Programs
+SPEC18VALUES	Basic Programs
+SPEC19VALUES	Basic Programs
+SPEC20VALUES	Basic Programs
+LABANALYSESRESULTS	COA
+ANALYSESLISTRESULTS	COA
+ANALYSESMETHODSTEXT	COA
+TRANSLABANALYSESTEXT	COA
+TRANSLABANALYSES	COA
+LABANALYSES	COA
+PARTREQLABANALYSES	COA
+ACTREQANALYSES	COA
+FAMILYREQLABANALYSES	COA
+PROCACTREQANALYSES	COA
+PARTACTREQANALYSES	COA
+TRANSANALYSESRESULTS	COA
+TRANSANALYSESITEMS	COA
+USERSBSNAMECHOOSE	Basic Programs
+PARTMSG	Sales
+PARTMSG2	Sales
+PRDITEMSTEXT	Purchasing
+PPROFIPRDI	Purchasing
+PRDIPPROFI	Purchasing
+BPMLOG	BPM
+BPMLOGTEXT	BPM
+DEALSTATS	Sales
+PDEALSTATS	Purchasing
+MATRIXSUMTEXT	Fashion
+CASHFLOWITEMS	Cash Flow
+SALESRATE	Fashion
+SALESRATEWARHS	Fashion
+HTMLLOG	MarketGate-Basic
+PARTTYPES	Fashion
+DISTRTYPES	Fashion
+PROPORTIONS	Fashion
+ORDCUSTDISTR	Fashion
+WARHSBALWORKAREA	Fashion
+PURCHASEINVOICEITEMS	Vendor Invoices
+SALESINVOICEITEMS	Sales Invoices
+RINVOICEITEMS_ONE	Sales Invoices
+WEBLINKS	BI
+DISTRICTS	Branches
+JOBSREP	Human Resources
+REPSAVED_ONE	System Maintenance
+WARHSBACKFLUSH	Production Control
+BUDVERSIONSTATS	Budgets
+CALLSTATUSESCONT	Basic Modelling
+FORM1099	United States
+FAMILYBONUSES	Sales
+CUSTFAMILYBONUSES	Sales
+ACCFNCITEMS_A	General Ledger
+ACCFNCITEMS2_A	General Ledger
+CCSTATUSESA	CRM
+CPROFSTATSA	Price Quotations
+CAMPAIGNPROG	CRM
+ORDSTATUSA	Commission Sales
+PAYTYPECASHBRANCH	Basic Modelling
+CUSTOMERSCHAIN_ONE	Sales
+MPARTSALERATEPERIOD	Fashion
+SALESRATEREP	Fashion
+SALESRATEWARHSREP	Fashion
+SPARTACTPRICEB	Purchasing
+PORDORD	Purchasing
+QUESTDOC_U	Human Resources
+QUESTFORM_U	Human Resources
+QUESTDOC_U_ONE	Human Resources
+ADGROUPS	Active Directory
+BUDVERTOP	Budgets
+TRANSLABANALYSES_Q	COA
+PARTSTATS	Inventory Control
+CUSTSTATS	CRM
+SUPSTATS	Purchasing
+ABILITYVALUECODES	Human Resources
+ABILITYVALUES	Human Resources
+USERBABILITIES	Human Resources
+QUALIFIEDCANDS	Human Resources
+INVOICESTOTAL	Sales Invoices
+PINVOICESTOTAL	Sales Invoices
+CPROFTOTAL	Price Quotations
+ORDERSTOTAL	Sales
+PORDERSTOTAL	Purchasing
+DOCUMENTSTOTAL	Inventory Control
+PDOCUMENTSTOTAL	Inventory Control
+PORDERSREMARKS	Purchasing
+BUD1LEVEL	Budgets
+BUD2LEVEL	Budgets
+BUD3LEVEL	Budgets
+BUD4LEVEL	Budgets
+BUDITEMGROUPS	Budgets
+CURUSERS	System Maintenance
+USERSCREP	Human Resources
+TODOLISTB	Basic Programs
+CUSTOMERPARTS	Sales
+CUSTNOTES2	CRM
+PROJACTTREEPRDI	Projects
+PROJACTTREEORDI	Projects
+ARFNCITEMS5	General Ledger
+FOBORDTYPESTEXTA	Commission Sales
+FOBORDTYPESTEXTALANG	Commission Sales
+IMPFILEIV2	Outgo Ship Vouchers
+EXPFILEIV	Outgo Ship Vouchers
+EXPFSTATUS	Outgo Ship Vouchers
+EXPFILES	Outgo Ship Vouchers
+EXPFILEINV	Outgo Ship Vouchers
+SUPTYPES	Purchasing
+JOBCANDSTATS	Human Resources
+JOBCANDIDATES_ONE	Human Resources
+JOBEMPS	Human Resources
+JOBCANDS	Human Resources
+CHNGTRANSORDER_DA	Inventory Control
+GENREP	Basic Modelling
+CPROFVER	Price Quotations
+CPROFITEMSVER	Price Quotations
+CPROFITEMSVERTEXT	Price Quotations
+PROFITREEVER	Price Quotations
+PROJACTEXTFILES	Projects
+PROJACTEXTFILESA	Projects
+PARTSERVCOST	Customer Service
+PARTSERVCOST_ONE	Customer Service
+SERVCONTCOST	Customer Service
+SERVCONTCOSTDET	Customer Service
+PQACTCONTCOST	Projects
+PQPRJCONTCOST	Projects
+SALESRATEPART	Fashion
+SALESRATEWARHSPART	Fashion
+DICTMODULES	System Dictionaries
+PROJCHANGEBALDOC	Projects
+DOCTEXT_H_HEADER	Inventory Control
+DOCTEXT_H_ONE	Inventory Control
+DOCTEXT_H_TWO	Inventory Control
+WARHSTYPE	Inventory Control
+PHONEBOOKFIRMLIST	CRM
+SOWTYPES	Sales
+SOWTYPES2	Sales
+SALES	Special Offers
+SALESTATS	Special Offers
+SALEITEMS	Special Offers
+CUSTSALES	Special Offers
+CUSTSALEIVITEMS	Special Offers
+SALEIVITEMS	Special Offers
+SALEBONUSORDERS	Special Offers
+SALECREDITINVOICES	Special Offers
+SALECUSTS	Special Offers
+USERSEXTFILES	Vendor Price Quotes
+WWWPROGLANG	MarketGate-Basic
+COMPANIESPRIV	Office Management
+FORMINTERFACES	Form Load Interface
+FNCWARHS3	General Ledger
+FNCWARHSFAMILY3	General Ledger
+FNCFAMILY3	General Ledger
+PROJACTS_ONE	Projects
+RPROJACTSTATS	Sales
+FNCBAL5	General Ledger
+OBLIGO_FNCBAL5	General Ledger
+LEADCUST	CRM
+PHONECUSTCAMPAIGNS	CRM
+LOADORDMIGRATION	Interfaces
+DEFINEORDMIGRATION	Interfaces
+LOADPARTMIGRATION	Interfaces
+DEFINEPARTMIGRATION	Interfaces
+DEFINECUSTMIGRATION	Interfaces
+LOADCUSTMIGRATION	Interfaces
+DEFINECUSTPHONEMIG	Form Load Interface
+LOADCUSTPHONEBOOKMIG	Interfaces
+DEFINESUPMIGRATION	Interfaces
+LOADSUPMIGRATION	Interfaces
+DEFINESUPPLMIGRATION	Interfaces
+LOADSUPPLMIGRATION	Interfaces
+LOADSUPPHONEBOOKMIG	Interfaces
+DEFINESUPPHONEMIG	Form Load Interface
+DEFINECUSTPLMIG	Form Load Interface
+LOADCUSTPLMIGRATION	Interfaces
+DEFINECUSTPARTMIG	Form Load Interface
+LOADCUSTPARTMIG	Interfaces
+DEFINESUPPARTMIG	Form Load Interface
+LOADSUPPARTMIG	Interfaces
+DEFINEMNFPARTMIG	Form Load Interface
+LOADMNFPARTMIG	Interfaces
+DEFINEALTPARTMIG	Form Load Interface
+LOADALTPARTMIG	Interfaces
+DEFINEPORDMIGRATION	Interfaces
+LOADPORDMIGRATION	Interfaces
+DEFINEDOCCMIGRATION	Interfaces
+LOADDOCCMIGRATION	Interfaces
+DEFINEPARTTREEMIG	Form Load Interface
+LOADPARTTREEMIG	Interfaces
+LOADLOCATIONSMIG	Interfaces
+DEFINELOCATIONSMIG	Form Load Interface
+DOCPURCHASEINVOICES	Customer Service
+JOBQUALIFICATIONS	Human Resources
+OPENORDERS	Sales
+INTERNTLBARS	Fashion
+RETBARCODESONE	Fashion
+TRANSLABANALYSES_QA	COA
+CCORDERS	CRM
+CCCPROFS	CRM
+CUSTCAMPAIGNSREP	CRM
+GENCUSTNOTES	CRM
+DOCCUSTTOPICS	CRM
+RPLPARTS	WMS
+CUSTCONTAINERTYPES	Inventory Control
+SERVCONTITEMSONE	Customer Service
+DEFINEDOCPMIGRATION	Interfaces
+LOADDOCPMIGRATION	Interfaces
+ALINE_ONE	Production Control
+CASHFLOWGROUPS	General Ledger
+BONUSAGREESTATS	CRM
+BONUSAGREEMENTS	CRM
+DEFINEFNCMIGRATION	Interfaces
+WMSREP	WMS Lite
+PROFILECLMNPRIV	System Maintenance
+DOCTODOLISTLOGTEXT	BPM
+DISTRBRANCHES	Branches
+CHANGE_LOG	Basic Modelling
+DEFINEAGMIGRATION	Interfaces
+CUSTQUESTDOC	Sales
+PROJINVOICEITEMS	Sales Invoices
+PROJORDITEMSA	Projects
+SQLBACKUPS	SQL Server Monitor
+SQLOPTIMIZATION	SQL Server Monitor
+SQLVERSION	SQL Server Monitor
+SQLINDEXES	SQL Server Monitor
+SQLDATASIZE	SQL Server Monitor
+DICTMODULESLANG	System Dictionaries
+PARTCPROFITEMS	Price Quotations
+RPROJACTS_ONE	Projects
+PROJACTSTEXT_ONE	Projects
+PROJVERSIONS_ONE	Projects
+SPECIALBUDGETPLN	Budgets
+SPECIALBUDGETSTATS	Budgets
+BUDGETUSERCODES	Budgets
+BUDGETUSERLIST	Budgets
+SPECIALBUDGETUSER	Budgets
+BUDGETSPECIALPLN	Budgets
+TITLES	Office Management
+SQLEVENTLOG	SQL Server Monitor
+SQLFREESPACE	SQL Server Monitor
+SQLPARAM	SQL Server Monitor
+CONTAINERS	Inventory Control
+PALLETPATTERNS	Inventory Control
+CONTAINERSPLANIMP	Inventory Control
+CONTAINERSPLAN	Inventory Control
+CONTAINERSPLANEXP	Inventory Control
+CONTAINERTYPES	Inventory Control
+WAVESTRATEGYS	WMS Lite
+PALLETS	Inventory Control
+OORDERS	WMS Pick
+OORDDISTR	WMS Pick
+WTASKPATTERNS	WMS Lite
+CREATEWAVERPILOG	WMS
+CONTAINERSEXEC	WMS Lite
+PALLETTYPES	Inventory Control
+PARTPACKONE	Inventory Control
+PALLETPACKS	Inventory Control
+STZONEPARTS	WMS Lite
+SALEWEEKDAYS	Demand Forecasts
+SALEDATES	Sales
+SALEDAYS	Sales
+TRCOLUMNS_ONE	System Dictionaries
+TRFORMCLMNS_ONE	System Dictionaries
+TRREPCLMNS_ONE	System Dictionaries
+TREXEC_ONE	System Dictionaries
+TRREPTITLE_ONE	System Dictionaries
+TRPROGPARAM_ONE	System Dictionaries
+INCOMEFORECAST	CRM
+SALESTARGETSTATS	CRM
+SALESTARGETS	CRM
+SALESTARGETVER	Sales
+SALESTARGETITEMS	Sales
+SALESTARGETITEMSVER	Sales
+OLAPFLAG	BI Reports
+FORMLIMITED	System Maintenance
+PORDISTATUSLOG	Purchasing
+PORDISTATUSES	Purchasing
+INTERIMFORECASTDATA	Sales
+SALESTARGETCONST	CRM
+mDOCSTATS	Inventory Control
+LEADSTATS	CRM
+PHONEBSTATS	CRM
+URGENCIES	CRM
+PALLETBAL	Inventory Control
+IMPFILEPORDI	Importing/Shipping
+PARTLOCATIONSONE	WMS Lite
+PARTLOCATIONS	WMS Lite
+WAVES	WMS Lite
+SEPARATORLOC	WMS Lite
+STORAGEZONEDISTSONE	WMS Lite
+FLAGSTZONES	WMS
+FLAGSTZONESCNTA	WMS
+FLAGSTZONESCNTB	WMS
+WTASKTRANSLINK	WMS Lite
+WAVEDOCS	WMS Pick
+WTASKDOCS	WMS Lite
+FLAGDOCUMENTS	WMS
+WTASKTYPES	WMS Lite
+AGENTARC_ONE	Sales
+AGENTARC	Sales
+AGENTTREE	Sales Reps
+AGENTTREE_ONE	Sales Reps
+QIVMASAV_CHANGE_LOG	Interbk Trans Proces
+SYSTEMS	Serial Numbers
+FACILITIES	Serial Numbers
+SITES	Serial Numbers
+SYSTEMSERN	Serial Numbers
+DOCQPORDERS	Customer Service
+WTASKSTATS	WMS Lite
+LINKWTASK	WMS Lite
+CDOCUMENTS_PTJ	WMS
+WARHSLOCATIONS	WMS Lite
+STZONEFAMILYS	WMS
+FAMILYSTZONES	WMS
+STZONEFAMILYTYPES	WMS
+WTASKITEMSA	WMS Lite
+FLAGORDERITEMSPIK	WMS Lite
+FLAGORDERITEMSRPL	WMS
+FLAGWARHSBALBULK	Inventory Control
+FLAGWARHSBALDSP	Inventory Control
+FLAGWARHSBALMOV	Inventory Control
+FLAGWARHSBALPLT	Inventory Control
+FLAGWARHSBALRET	Inventory Control
+FLAGWARHSBALUNP	Inventory Control
+ADCITEMS	WMS Lite
+FLAGSERKIT	Inventory Control
+FAMILYTYPESTZONES	WMS
+FLAGTRANSPUT	WMS
+STORAGEZONES	WMS Lite
+STORAGEZONEDISTS	WMS Lite
+LABELPATTERNS	Inventory Control
+WAVEWTASKS	WMS Pick
+EXPFCUSTNOTES	Outgo Ship Vouchers
+IMPFCUSTNOTES	Importing/Shipping
+IMPFCUSTNOTESTEXT	Importing/Shipping
+EXPFCUSTNOTESTEXT	Outgo Ship Vouchers
+CHOOSEEXPFILEORDI	Sales
+EXPFILEORDI	Sales
+PALLETALINE	Inventory Control
+WTASKITEMS	WMS Lite
+WTASKTYPEDOCTYPES	WMS Lite
+WTASKS	WMS Lite
+DEALTEXTHEADER	Sales
+DEALTEXTONE	Sales
+DEALTEXTTWO	Sales
+LOCWARHSBAL	Inventory Control
+LOCATIONSINWARHS	WMS Lite
+FLAGSERIAL	Production Control
+SERNSYSTEMS	Serial Numbers
+SONTERRITORIES	Sales
+INTERCLMNSDEFAULT	Form Load Interface
+TASKSCHEDULE	System Maintenance
+ADCSERNWTASKI	WMS Lite
+SERNWTASKI	WMS Lite
+BINTYPES	WMS Lite
+BINTYPEPARTS	WMS
+TERRITORIES	CRM
+TRANSMEANTYPES	WMS Lite
+GENREP_ONE	Basic Modelling
+TRANSORDERINTRASTAT	Europe
+DOCUMENTSINTRASTAT	Europe
+LIBRARY	Office Management
+SUPWTAX	Basic Modelling
+ECOPART_ONE	Engineering
+DEFINETRANSqLOAD	Form Load Interface
+LOADTRANSORDER_q	Projects
+CHANGES_LOG	General Ledger
+PROJCUSTNOTES	CRM
+TRANSORDER_qa	Projects
+FLAGWARHSBALCNT	Inventory Control
+BOOKVERSIONS	Office Management
+BOOKSTATS	Office Management
+DOCAORDI	Sales
+CLMNPRIV	System Maintenance
+IVEDI	EDI for SuperPharm
+ORDIBONUSES	Sales
+DOCUMENTS_PTJ	WMS Lite
+STZFAMAISLES	WMS
+STZFAMTYPSAISLES	WMS
+CUSTSHIPPER	Shipping Interfaces
+UPSLOAD	EDI for Shippers
+STATUSTYPESA	System Maintenance
+BUDGETSPRIV	Office Management
+PARTPDPROFITEMS	Vendor Price Quotes
+PCCHARGE_SETTINGS	Credit Card Payments
+PCCHARGE_USERS	Credit Card Payments
+DOCTEXT_A_HEADER	Inventory Control
+DOCTEXT_A_ONE	Inventory Control
+DOCTEXT_A_TWO	Inventory Control
+VATPERIODLOG	General Ledger
+IVWTAX	Payments
+WTAXTABLE	Basic Modelling
+OPENPARTPRDITEMS	Purchasing
+DOCQPURDEMANDS	Purchasing
+CUSTFAMILYDISCONE	Sales
+CUSTDISCOUNTONE	Sales
+CUSTPLISTONE	Sales
+PLISTCUSTOMERS	Sales
+PLISTMCUSTOMERS	Sales
+CUSTPARTPRICEONE	Sales
+EDI_ORDPHARM	EDI for SuperPharm
+EXPIVDUTIES	Importing/Shipping
+SCALES	Executive Reports
+OPENDOCUMENTS_F	Production Control
+FLAGWBLBULKDOCF	Inventory Control
+WAREHOUSESZOOM	Inventory Control
+PHARMUNIT	EDI for SuperPharm
+CUSTNOTESTEXT_ONE	CRM
+USERSBSTATS	Office Management
+TERRTREE	CRM
+ODOCUMENTS_I	WMS Production
+WARHSSTORAGEZONES	WMS Lite
+AGEDEBT_OBLIGO_TRANS	Sales
+AGEDEBT_OBLIGO_PROJ	Sales
+TERRITORYCUST	CRM
+CUSTNOTESUSERS	CRM
+WBSPROJLINK_OLD	Projects
+WBSPROJLINK	Projects
+BUDGETUSERS	Budgets
+DOCTEXT_W_HEADER	Inventory Control
+DOCTEXT_W_ONE	Inventory Control
+DOCTEXT_W_TWO	Inventory Control
+IDOCSTATS	Inventory Control
+CUSTCAMPITEMS	CRM
+PURDEMANDTEXTHEADER	Purchasing
+PURDEMANDTEXTONE	Purchasing
+PURDEMANDTEXTTWO	Purchasing
+PDPROFTEXTHEADER	Vendor Price Quotes
+PDPROFTEXTONE	Vendor Price Quotes
+PDPROFTEXTTWO	Vendor Price Quotes
+ORDDOC_H	Inventory Control
+PROJLINK_PIV	General Ledger
+GLDOCPAT	General Ledger
+CUSTNOTESTATUSESA	Price Quotations
+SHAAMLOADTABLE	Purchasing
+SHAAMERRLOADTABLE	Purchasing
+ADCCONTROLLER	WMS Lite
+WTASKITEMSB	WMS Lite
+WTASKITEMSPART	WMS Lite
+CUSTPROJECTS	CRM
+SMSDEFS	SMS Text
+SMSDEFSTEXT	SMS Text
+PORDERSVER	Purchasing
+PORDERITEMSVER	Purchasing
+PORDITEMSVERTEXT	Purchasing
+PORDERSTEXTVER	Purchasing
+PORDERSLINKINGVER	Purchasing
+PICKBAL	WMS Lite
+PICKBAL2	WMS Lite
+CUSTCAMPAIGNSTEXT	CRM
+USERSBRANCH	Branches
+SHIFTCANCELCODES	Office Management
+USERSSHIFT	Office Management
+CUSTBAL	General Ledger
+CUSTFNCITEMS	General Ledger
+CUSTFNCITEMS2	General Ledger
+CUSTFNCITEMS3	General Ledger
+TFNCITEMS4	Cashiers
+BRANCHESUSERS	Branches
+MEETINGSPANS	CRM
+FORMALERTS	Basic Programs
+FORMALERTSTEXT	Basic Programs
+FORMALERTSENGTEXT	Basic Programs
+FORMALERTCONDS	Basic Programs
+BANKNOTES	General Ledger
+IVBANKNOTES	General Ledger
+BANKNOTES2	General Ledger
+BIVDETAILS	Cashiers
+WTAXINT	Payments
+BRANCHUSERTMTBL	Office Management
+UGROUPSBRANCH	Branches
+QUESTIONGROUP	Basic Programs
+QUESTFORMHEADER	Sales
+QUESTFORMTEXTCONST	Basic Programs
+COLTRIGUPGNOTES	Software Versions
+FORMTRIGUPGNOTES	Software Versions
+PROGUPGNOTES	Software Versions
+REPUPGNOTES	Software Versions
+COLUPGNOTES	Software Versions
+ENTITYUPGNOTES	Software Versions
+FLAGSTZONESPICK	WMS
+FLAGORDERITEMSPAK	WMS Pick
+MANIVPARTS	Importing/Shipping
+MANIVPARTS2	Importing/Shipping
+QUESTFORMTEXTCONST2	Basic Programs
+SYS1000	General Ledger
+TODOLISTDOCTEXT	BPM
+TODOLISTEXTFILES	BPM
+TODOLISTDOCTEXT2	BPM
+TODOLISTCLOSESTATSUS	Basic Programs
+TODOLISTCLOSESTATS	Basic Programs
+CHECKTEMPLATES	Check Payments
+ORDERCPROF	Sales
+CPROFORD	Price Quotations
+STORAGETYPES	WMS
+ZONESTORAGETYPES	WMS
+ZONESTTYPESAISLES	WMS
+ZONEAISLES	WMS Lite
+MRPDEMANDRAWALT	MRP
+MRPDEMANDRAWSER	MRP
+LOADUSERSMIG	System Maintenance
+DEFINEUSERSMIGRATION	Interfaces
+USERGROUPS	System Maintenance
+MODELOPTIONS_ONE	Price Quotations
+FLAGTRANSPUTBYDOC	WMS
+CHNGDOCUMENTS_T	Inventory Control
+WTASKTYPECUSTS	WMS Lite
+BREAKREASONS	Human Resources
+USERBREAKS	Human Resources
+USERBREAKS_ONE	Human Resources
+BOXNUMS	WMS Lite
+CUSTNOTETYPESTEXT	CRM
+CUSTNOTETYPESTEXTLNG	CRM
+FORMPERSONALTRANS	System Maintenance
+WMSREASONS	WMS Lite
+FNCPATTERNSA	General Ledger
+CREDITRECON	Credit Card Reconcil
+WTASKTYPEFORMNAMES	WMS Lite
+TRANSMEANS	WMS Lite
+NETLONGRUNEXEC	System Maintenance
+NETDELAYDEFS	System Maintenance
+LOADCURRENCY	Basic Modelling
+CPROFREP	Executive Reports
+COMPETITORS	CRM
+ZONESTTYPESBINTYPES	WMS
+CUSTSPEC11VALUES	Basic Programs
+CUSTSPEC12VALUES	Basic Programs
+CUSTSPEC13VALUES	Basic Programs
+CUSTSPEC14VALUES	Basic Programs
+CUSTSPEC15VALUES	Basic Programs
+CUSTSPEC16VALUES	Basic Programs
+CUSTSPEC17VALUES	Basic Programs
+CUSTSPEC18VALUES	Basic Programs
+CUSTSPEC19VALUES	Basic Programs
+CUSTSPEC20VALUES	Basic Programs
+PACKDOC	Inventory Control
+FOLDERS	File Explorer
+SUBFOLDERS	File Explorer
+STARSHIPSCHEMES	EDI for Shippers
+STARSHIPSCHEMESTEXT	EDI for Shippers
+STARSHIPPACKAGE	EDI for Shippers
+STARSHIPHEADER	EDI for Shippers
+ESTYPES	Enterprise Search
+ADCFORMS	Inventory Control
+ADCFORMUSERS	Inventory Control
+USERSADCFORMS	WMS
+DEFAULTZONES	WMS Lite
+ORDERITEMSTEXTRO	Sales
+WTASKSTEXT	WMS Lite
+JOBSWEBTEXT	Human Resources
+OUTLOOKCATEGORIES	CRM
+CUSTCOMMISSIONS	Sales Reps
+PALLETLOGFILE	Inventory Control
+SALARYSTATS	Basic Time & Attend
+SALARYTRANSSTATS	Basic Time & Attend
+SALARYGROUPS	Basic Time & Attend
+WORKHOURCODES	Basic Time & Attend
+ABSENTHOURCODES	Basic Time & Attend
+SALARYCODES	Basic Time & Attend
+ABSENTHOURCODECONT	Basic Time & Attend
+SALARYTEMPLATES	Basic Time & Attend
+SALARYTEMPLATECODES	Basic Time & Attend
+USERSBSALARY	Basic Time & Attend
+MONTHSALARIES	Basic Time & Attend
+SALARYCODES2	Basic Time & Attend
+SALARYTRANS	Basic Time & Attend
+MONTHHOURS	Basic Time & Attend
+USERSBSALARYCODES	Basic Time & Attend
+SALARYTRANSTEXT	Basic Time & Attend
+MONTHSALARIESTEXT	Basic Time & Attend
+USERSBSALARYTEXT	Basic Time & Attend
+MONTHSALARYTRANS	Basic Time & Attend
+USERSBWORKHOURS	Basic Programs
+USERSBABSENTCHART	Basic Programs
+SALARYUSERS	Basic Time & Attend
+TAXCREDITPOINTS	Basic Time & Attend
+USERBCREDITPOINTS	Basic Time & Attend
+SALARYCREDITPOINTS	Basic Time & Attend
+USERSBWORKHOURS2	Basic Time & Attend
+USERSBABSENTCHART2	Basic Time & Attend
+SALARYTRANS2	Basic Time & Attend
+TRANSPROJ_q	Basic Time & Attend
+MONTHSALARIESCONT	Basic Time & Attend
+FLAGWARHSBALGEN	Inventory Control
+PAYMENTDEF_ONE	Sales
+PAYMENTDEF_TWO	Sales
+ECOPARTEXTFILE	Engineering
+SALARYTRANSITEMS	Basic Time & Attend
+ORDCOMITEMS	Sales Reps
+STZONESLIST	WMS Lite
+FLAGWTASKITEMS	WMS
+FORMCLTRIG_ONE	Form Generator
+FORMTRIG	Basic Modelling
+PORDPAY	Sales Invoices
+ZONELOCATIONS	WMS Lite
+MOBUSERS	WMS Mobile Devices
+MOBWTASKTYPES	WMS Mobile Devices
+MOBUSERSB	WMS Mobile Devices
+INSTANTMESSAGING	System Maintenance
+CAMPCUSTNOTES	CRM
+LETTERS	CRM
+LETTERSTEXT	CRM
+FORMPERSONALTRANSA	System Maintenance
+MANBANKRECON	Bank Reconciliations
+MANBANKRECONITEMS	Bank Reconciliations
+JOBCANDREFEREES	Human Resources
+JOBCANDTESTTYPES	Human Resources
+CANDJOBINTERVIEWS	Human Resources
+TAXYEARS	Basic Time & Attend
+TAXTABLE	Basic Time & Attend
+TAXTABLE2	Basic Time & Attend
+TAXTABLE3	Basic Time & Attend
+TAXCODES3	Basic Time & Attend
+TAXCODES2	Basic Time & Attend
+SALARYCONST	System Maintenance
+SALARYCONSTDATES	System Maintenance
+SICKDAYSCALC	Basic Time & Attend
+MONTHTAXES	Basic Time & Attend
+USERBSALARYTRANS	Basic Time & Attend
+FUNDS	Basic Time & Attend
+USERBFUNDS	Payroll
+OLDTAXES	Basic Time & Attend
+SALARYTEMPLATEDAYS	Basic Time & Attend
+USERBDAYS	Basic Time & Attend
+MONTHINSURANCE	Basic Time & Attend
+TAXSECTIONS	Basic Time & Attend
+SALARYTOMSV	Payroll
+FUNDTOMSV	Payroll
+USERBACCOUNTS	Basic Time & Attend
+SALARYFNCTRANS	Basic Time & Attend
+SALARYCONST2	Basic Time & Attend
+MONTHSALARIES2	Basic Time & Attend
+MONTHSALARYTRANS2	Basic Time & Attend
+MONTHHOURS2	Basic Time & Attend
+MONTHSALARYTRANS_ONE	Basic Time & Attend
+MONTHHOURS_ONE	Basic Time & Attend
+SALARYTRANSITEMS_ONE	Time & Attendance
+PRIVUSERS	System Maintenance
+USERPRIVLOG	System Maintenance
+USERPRIV	System Maintenance
+PIVSDETAILS	Vendor Invoices
+FAQSTATS	Customer Service
+PARTSTZONES	WMS Lite
+SGROUPS	Basic Time & Attend
+SGROUPSPRIV	Basic Time & Attend
+USERBSALARYTRANS_ONE	Basic Time & Attend
+DOWNPAYMENTSTOMSV	Payroll
+USERSCURENVC	Office Management
+SPECIALBUDGETITEMS	Budgets
+MONTHSALARIES_RETRO	Payroll
+ARMYDAYS	Payroll
+CUSTCNEXTFILE	Sales
+VELOCITYLEVELS	WMS Lite
+MALFGROUPS	Basic Modelling
+PHONEMALFGROUPS	CRM
+ADCSTZONES	WMS Lite
+DETMONTHHOURS	Basic Time & Attend
+SALARYTRANSITEMSSICK	Basic Time & Attend
+ORDIWTASKS	WMS Lite
+ORDWTASKS	WMS Lite
+DINVOICES	Vendor Invoices
+DINVOICEITEMS	Vendor Invoices
+DIVSTATS	Vendor Invoices
+HFNCITEMS4	Payments
+PQSUPIPROFORMA	Projects
+DINVOICEITEMS_ONE	Vendor Invoices
+CLOSEDINVOICES	Vendor Invoices
+STORAGETYPEZONES	WMS
+NETDEFS	System Maintenance
+IV2WTAX	Vendor Invoices
+DOCSTATUSESSORT	System Maintenance
+BANKBRANCHES	General Ledger
+USERSBSALARYCHOOSE	Basic Programs
+MANBANKRECONITEMSB	Bank Reconciliations
+PROVISIONS	Payroll
+MANBANKPAGES	Bank Reconciliations
+MANBANKPAGEITEMS	Bank Reconciliations
+MONTHINSURANCE2	Basic Time & Attend
+LEASINGSTATUS	Sales
+LASTADCITEMS	WMS Lite
+FNCSUPCHANGES_LOG	General Ledger
+DEFINEUSERSWORKHOURS	Interfaces
+LOADUSERSBWORKHOURS	Basic Time & Attend
+CREDITCASHBAL	Cashiers
+WTASKTYPEREMARKS	WMS Lite
+OPENTINVOICES	Sales Invoices
+TOPICCHECKLIST	CRM
+LOADSALARYTRANS	Basic Time & Attend
+DEFSALARYTRANSFILE	Interfaces
+DEFLOADSALARYTRANS	Basic Time & Attend
+DEFUSERBSALARYTRANS	Basic Time & Attend
+FNCCUSTCHANGES_LOG	General Ledger
+DAILYHOURS2	Basic Time & Attend
+APPUSERSBABSENTCHART	Time & Attendance
+DEFUSERSBSALARYFILE	Interfaces
+LOADUSERSBSALARY	Basic Time & Attend
+LOADOLDTAXES	Basic Time & Attend
+DEFOLDTAXESFILE	Interfaces
+DEFINEUSERBMIGRATION	Interfaces
+LOADUSERBMIG	System Maintenance
+IVPACK	Bill of Lading
+IVPACK2	Bill of Lading
+MONTHSALARIESREP	Basic Time & Attend
+SALARYTRANSREP	Basic Time & Attend
+MONTHSALARIESREMARK	Basic Time & Attend
+MONTHREMARKTEXT	Basic Time & Attend
+TRLANGTRIGMSG	System Dictionaries
+TRLANGEXTMSG	System Dictionaries
+USERBFUNDS_ONE	Payroll
+CUSTCAMPTYPES	CRM
+CUSTCAMPTYPES2	CRM
+FAILUREREASONS	CRM
+CUSTCAMPPRIV	Office Management
+SKILLTYPES	Basic Modelling
+MACUNIT	EDI to Store Chains
+PURDEMANDREASONS	Purchasing
+BPMALERTS	BPM
+BPMALERTSTEXT	BPM
+BPMALERTSENGTEXT	BPM
+BPMALERTCONDS	BPM
+BPMALERTCONDS_ONE	BPM
+SERIALFAULTS	MRB
+MONTHFUNDS_YEAR	Basic Time & Attend
+MONTHFUNDS_PREVYEAR	Basic Time & Attend
+MONTHFUNDS	Payroll
+USERSB_CHANGES_LOG	General Ledger
+USERS_CHANGES_LOG	General Ledger
+YIV_CHANGES_LOG	General Ledger
+PIV_CHANGES_LOG	General Ledger
+PORDERS_CHANGES_LOG	General Ledger
+CUSTSHIPTEXT	Sales
+PARTCUSTCAMPAIGNS	CRM
+PARTCUSTCAMP_ONE	CRM
+CONNECTIONLOG	System Maintenance
+FORMERRORLOG	Work With SQL Server
+FORMERRORLOGTEXT	System Maintenance
+SPECIALBUDGETPLN_ONE	Budgets
+PARTSPEC_ONE	Inventory Control
+DOCTOWTASKS	WMS Lite
+DISTRDETAILS	Bill of Lading
+CREDITREASONS	Basic Modelling
+FUNDSPHONE	Basic Time & Attend
+SYSEXTFILES	CRM
+MONTHFUNDS_ALL	Basic Time & Attend
+MONTHFUNDS_ONE	Payroll
+PROGMAILBODY	System Maintenance
+PROGMAILBODYTEXT	System Maintenance
+EXECLABELSDEF	Inventory Control
+EXECLABELCLMNS	Inventory Control
+YEARSALARIES	Payroll
+YEARSALARYTRANS	Basic Time & Attend
+YEARHOURS	Basic Time & Attend
+YEARFUNDS	Payroll
+YEARSALARIES_CONT	Basic Time & Attend
+MARITALSTATUS	Human Resources
+GENDERS	Office Management
+YEARTAXSECTIONS	Basic Time & Attend
+YEARSALARYTRANS2	Basic Time & Attend
+YEARTAXSECTIONS2	Basic Time & Attend
+MONTHSALARYTRANS3	Basic Time & Attend
+YEARTAXSECTIONS_ONE	Payroll
+YEARTAXSECTIONS3	Basic Time & Attend
+FORM126COMPANIES	Payroll
+MONTHTOTALS	Payroll
+ORDCHECKLIST	Price Quotations
+ADCFSMCONTROLLER	Field Service Mngmt
+ADCFSMITEMS	Field Service Mngmt
+FSMTECHDETAILS	Field Service Mngmt
+LASTADCFSMITEMS	Field Service Mngmt
+DOC_N	Inventory Control
+CASHBALDATE	Cashiers
+CASHCLOSEDATES	Cashiers
+ACCBALLOG	Inventory Control
+WTASKSONS	WMS Lite
+WTASKFATHERS	WMS Lite
+FSMPARTS	Field Service Mngmt
+ORGCHARTDEF	CRM
+TOPICCHECKLISTTEXT	CRM
+ORDCHECKLISTTEXT	Price Quotations
+SALARYTRANSMONTH	Basic Time & Attend
+EXCEPTHOURS	Basic Time & Attend
+USERENVGROUPS	System Maintenance
+INTERNETPROC	System Maintenance
+ADCSLSCONTROLLER	Field Sales Mngmt
+ADCSLSHEADER	Field Sales Mngmt
+ADCSLSITEMS	Field Sales Mngmt
+ADCEXTFILES	Field Sales Mngmt
+ADCSLSERRMSGS	Basic Programs
+ADCCONTROLLERLOG	Field Sales Mngmt
+ADCSLSITEMSLOG	Field Sales Mngmt
+ADCEXTFILESLOG	Field Sales Mngmt
+ADCCUSTNOTE	Field Sales Mngmt
+ADCCUSTOMER	Field Sales Mngmt
+ADCPHONEBOOK	Field Sales Mngmt
+BTLFORM	Basic Time & Attend
+FORM101CHILDREN	Basic Time & Attend
+ADCTPAYMENT	þÞ¨ ·Õ°¨-·Õ°ÚÙ¯ ±Ú±ß
+ADCTINVOICE	þÞ¨ ·Õ°¨-·Õ°ÚÙ¯ ±Ú±ß
+ADCTPAYMENTLOG	Field Sales Mngmt
+BASICSALARYTEMPLATES	Basic Time & Attend
+CAMPAIGNSCUSTNOTES	CRM
+MONTHPAYROLLTAX	Basic Time & Attend
+ORDERS_CHANGES_LOG	General Ledger
+ACCOUNTBANKSUP_LOG	General Ledger
+ACCOUNTBANKCUST_LOG	General Ledger
+INTERNALDIALOGTEXT	Basic Programs
+ORDDISTR_REP	WMS Lite
+CHANGESITEMS_LOG	General Ledger
+FAVORITEFOLDERS	File Explorer
+ESEXTENSIONS	Enterprise Search
+INSTALLEDUPGRADES	System Maintenance
+INSTALLEDUPGEXEC	System Maintenance
+EXTFILELINKS	Vendor Price Quotes
+FILEEXPLORER	Vendor Price Quotes
+WTAXFORTAXGROUPS	Basic Modelling
+NSBRANCH	Office Management
+DEFLOADWORKHOURS	Time & Attendance
+DEFUSERBWORKHOURS	Time & Attendance
+DEFWORKHOURSFILE	Time & Attendance
+ADCTFNCITEMS	þÞ¨ ·Õ°¨-·Õ°ÚÙ¯ ±Ú±ß
+ADCTFNCITEMSLOG	Field Sales Mngmt
+PURDEMANDTYPES	Purchasing
+PURDEMANDTYPESTEXT	Purchasing
+PURDEMTYPESTEXTLANG	Purchasing
+BONUSESORDI	Sales
+USERBDAILYHOURS	Basic Time & Attend
+TAXSECTIONSLOAD	Payroll
+ZONEAISLESTMTYPES	WMS Lite
+CLOCK	Basic Time & Attend
+LOADUSERSBWORKHOURST	Basic Time & Attend
+EDIPREFIX	EDI to Store Chains
+ZDOCSTATSA	Commission Sales
+ADCMALFDETTEXT	Field Service Mngmt
+ADCSOLDETTEXT	Field Service Mngmt
+CUSTNQUESTLINES	Basic Programs
+LOGFILEFN	Inventory Control
+LABELSA	Inventory Control
+MONTHHOURSREP	Basic Time & Attend
+SQLDBCCCHECKLOG	SQL Server Monitor
+ORD_CHANGES_LOG	General Ledger
+PINV_CHANGES_LOG	General Ledger
+PORD_CHANGES_LOG	General Ledger
+EXTCODES	Time & Attendance
+HIVSPECS	Payments
+HIVSPECS_CHANGES	Payments
+ADCCONTROLLERTEXT	Basic Programs
+ADCCONTROLLERTEXTLOG	Field Sales Mngmt
+HOLIDAYS	Basic Time & Attend
+TEMPLATEHOLIDAYS	Basic Time & Attend
+ADCSALCONTROLLER	Field Time & Attend
+ADCSALCONTROLLERLOG	Field Time & Attend
+DLVTRACKBOXNUMS	Delivery Tracking
+DLVTRACKITEMS	Delivery Tracking
+DLVTRACKS	Delivery Tracking
+DLVTRACKSTATS	Delivery Tracking
+DRVREMARKS	Delivery Tracking
+ORDINVOICEITEMS	Sales
+CTYPEFAMILY	General Ledger
+CTYPEFAMILY2	General Ledger
+SUPTYPEFAMILY	General Ledger
+SUPTYPEFAMILY2	General Ledger
+PORDISINGLEALL	Purchasing
+MONTHHOURSSTACK	Basic Programs
+BANKBRANCHES2	General Ledger
+ADCDLVCONTROLLER	Delivery Tracking
+ADCDLVEXTFILES	Delivery Tracking
+ADCDLVITEMS	Delivery Tracking
+DLVEXTFILES	Delivery Tracking
+LASTADCDLVITEMS	Delivery Tracking
+LOADWORKHOURS	Time & Attendance
+SPLITCOSTCENTERS	Purchasing
+CGROUPCOMPS	General Ledger
+COMPGROUPS	General Ledger
+ACCOUNTSTREE	General Ledger
+EXTSALARYCODES	Time & Attendance
+PICKSTG	WMS Billing
+PICKSTGSTEPS	WMS Pick
+PICKSTGSTEPS_Q	Inventory Control
+QUALITYRANKS	COA
+ORDIDISTR	Sales
+COMPACCOUNTS	General Ledger
+IVTYPEBRANCHESTEXT	Basic Modelling
+IVTYPEBRANCHESTEXT2	Basic Modelling
+MONTHHOURSSTACK_ONE	Basic Programs
+DETMONTHHOURS_ONE	Basic Time & Attend
+DEPTSALARYCODES	Basic Time & Attend
+MPART_Q	Fashion
+OVERTIMEDEF	Basic Time & Attend
+FORECASTREP	Executive Reports
+STARGETINVREP	Executive Reports
+STARGETORDREP	Executive Reports
+TAXCREDITPOINTSDATES	Basic Time & Attend
+ADCLEAD	Field Sales Mngmt
+ADCLEADADRESS	Field Sales Mngmt
+USERBMSG	Basic Time & Attend
+USERBMSG2	Basic Time & Attend
+WTASKDOCNUMS	WMS Lite
+LEADCAMPAIGNS	CRM
+TAXTABLE4	Basic Time & Attend
+TAXCODES4	Basic Time & Attend
+TAXTABLES4	Basic Time & Attend
+BTLEXTINCTYPES	Basic Time & Attend
+BTLINCTYPES	Basic Time & Attend
+ADCAINVOICE	Field Sales Mngmt
+ADCAIVITEMS	Field Sales Mngmt
+DOCPATITEMS	Sales
+ORDIPICK	WMS Pick
+ADCDOCD	Field Sales Mngmt
+ADCDOCDITEMS	Field Sales Mngmt
+ADCDOCDLOG	Field Sales Mngmt
+ADCDOCDLOGITEMS	Field Sales Mngmt
+ADCCC	Field Sales Mngmt
+ADCCCITEMS	Field Sales Mngmt
+ADCCCLOG	Field Sales Mngmt
+ADCCCLOGITEMS	Field Sales Mngmt
+TRACKING	Basic Modelling
+ADCTFNCITEMS2	þÞ¨ ·Õ°¨-·Õ°ÚÙ¯ ±Ú±ß
+ADCTFNCITEMSLOG2	Field Sales Mngmt
+ADCTIVLOG	þÞ¨ ·Õ°¨-·Õ°ÚÙ¯ ±Ú±ß
+APPUSERS	Basic Programs
+ADCOBLIGO	Field Sales Mngmt
+OBLIGO_CHECKS2	Sales
+COMPSTATUSES	Basic Modelling
+IVCODES	Sales
+WTYPESBALPART	Fashion
+BTLFORM161PERIODS	Basic Time & Attend
+BTLFORM161SUM	Basic Time & Attend
+BTLFORM161TABLE	Basic Time & Attend
+WTAXNUMEXPLS	Basic Modelling
+PARTPORDERS	Price Quotations
+SUPPORDERITEMS	Price Quotations
+ADDTAXPERCENT	Basic Modelling
+CUSTADDTAXES	Basic Modelling
+IVADDTAXES	Sales
+PIVADDTAXES	Sales
+SUPADDTAXES	Basic Modelling
+CUSTCALLFREQUENCY	Field Sales Mngmt
+ADCDOCN	Field Sales Mngmt
+ADCDOCNITEMS	Field Sales Mngmt
+ADCDOCNLOG	Field Sales Mngmt
+LOADCUSTADDTAXES	Sales Invoices
+ADCORDIBONUSES	Field Sales Mngmt
+ADCFPRCONTROLLER	Field Project Rep't
+DLVPACKS	Delivery Tracking
+ADCDLVNDOCLINES	Delivery Tracking
+DLVREASONS	Delivery Tracking
+DLVTRACKSTATSA	Delivery Tracking
+CUSTNQUESTTEXT	Basic Programs
+WARHSBALCREP	Inventory Control
+USERBAPPHOURS	Basic Time & Attend
+EXTCODETEMPLATES	Basic Time & Attend
+CUSTOMERSCOMPCHAIN	Sales
+CCDOC	CRM
+COMPCERT	Sales
+FAXDEFS	System Maintenance
+FNMATRIXLEVELTYPES	Fashion
+PICKORDERSTEPS	WMS Pick
+CITYCURRENCIES	Interfaces
+DOCQ_TODOLISTLOG	BPM
+PROVISIONS2	Basic Time & Attend
+ADCORDLOG	Field Sales Mngmt
+MONTHHOURS161TBL	Basic Time & Attend
+MONTHTRANS161TBL	Basic Time & Attend
+BARCODEPARSERS	WMS Lite
+WTYPESBALMPART	Fashion
+LOADSALARYCODES	Basic Time & Attend
+DEDUCTEXPPER	Europe
+EXPENSETYPES	Europe
+ADCCPROFLOG	Field Sales Mngmt
+ADCTEXT	Field Sales Mngmt
+PROGLIMITED	System Maintenance
+ADCBPMADC	Basic Programs
+ADCBPMSTATS	Basic Programs
+CPROFCHECKLIST	Price Quotations
+EXECUSERPRIV	System Maintenance
+ADCAIVLOG	Field Sales Mngmt
+BINPALLETTYPES	WMS Lite
+DIOT	Payments
+DIOTITEMS	Payments
+DIOTITEMS2	Payments
+COSTCACCOUNT	Cost Allocation
+COSTCACCOUNT_ONE	Cost Allocation
+USERSBWORKHOURSTASKA	Basic Time & Attend
+USERSBWORKHOURSTASKS	Basic Time & Attend
+WORKHOURSTASKS	Basic Programs
+MONTHPAYMENTS	Basic Time & Attend
+MANUALREPCODES	Basic Programs
+MONTHDEPTHOURS	Basic Time & Attend
+ADCDLVITEMSENV	Delivery Tracking
+DLVTRACKITEMSENV	Delivery Tracking
+DLVTRACKSENV	Delivery Tracking
+ENVIRONDELLOG	System Maintenance
+ENVIRONDELLOGTEXT	System Maintenance
+FOLLOWUPLIST	Basic Programs
+ADCINWTASKITEMS	WMS Lite
+VEHICLES	Basic Time & Attend
+IVSIGN	Sales Invoices
+BTL101FORM	Basic Time & Attend
+MAILSERVERS	System Maintenance
+VEHICLETAX2	Basic Time & Attend
+SHABBATTIMES	Basic Time & Attend
+PAYITEMS	Basic Modelling
+IVWTAX_ONE	Payments
+PURD_CHANGES_LOG	General Ledger
+PURDEM_CHANGES_LOG	General Ledger
+ADCAINVLOGITEMS	Field Sales Mngmt
+PIVLINELINK	Sales Invoices
+ORAPRIVLOG	Oracle Data Base
+USERSB_CHANGES_LOGA	General Ledger
+REPSOURCES	Basic Programs
+FLAGORDERSSETSPIK	WMS Lite
+PICKBAL3	Fashion
+TRANSORDER_Z_ONE	Customer Service
+ZIPSALESTAX	General Ledger
+DIRECTCONNECT	Credit Card Payments
+SALARYTRANSB	Basic Time & Attend
+SALARYTRANSITEMSB	Basic Time & Attend
+FSMSERNUMBERS	Field Service Mngmt
+CITIES	Inventory Control
+CITIES_ONE	Inventory Control
+WTASKSERIES	WMS Lite
+ADCPWDCONTROLLER	System Maintenance
+ECATEGORIES	E-Commerce
+ECATEGORYTEXT	E-Commerce
+ECDEFINITIONS	E-Commerce
+PARTATTRIBUTES	Inventory Control
+CUSTOMCONST	System Maintenance
+ECPARTCATEGORIES	E-Commerce
+WTASKTYPESKILLS	WMS Lite
+LOADWORKABSENT	Time & Attendance
+WORKHOURSCODES	Time & Attendance
+ORGUNITS	Human Resources
+SHVARETVALUES	Cashiers
+PLTCUSTOMERS	Inventory Control
+ADCCNCONTROLLER	CRM
+DOCQ_CHANGES_LOG	General Ledger
+ORDIPRDI	Purchasing
+IVPAYMENTLOG	Cashiers
+ADCCUSTLOG	Field Sales Mngmt
+ALLOCPROJHOURS	Time & Attendance
+FUTUREABSENTCHART	Time & Attendance
+MONTHHOURSTRANS	Time & Attendance
+MONTHHOURSWORKAREA	Time & Attendance
+PROJHOURS	Projects
+PROJUSERS	Projects
+TRANSORDER_qw	Projects
+USGROUPS	Basic Time & Attend
+DOCFNCTRANS	General Ledger
+BIRTHDAYGREETHEADER	Price Quotations
+BIRTHDAYGREETINGTEXT	Basic Time & Attend
+ACCOUNTBANKHSBC	Bank Transfers
+HSBCCOMMS	Bank Transfers
+HSBCCURRENCIES	Interfaces
+HSBCPAYMETHODS	Bank Transfers
+HSBCPAYTYPES	Bank Transfers
+HSBCTAXDECLCODES	Bank Transfers
+PTYPETDECLCODES	Bank Transfers
+QIVHSBC_CHANGE_LOG	Interbk Trans Proces
+QIVTOHSBC	Interbk Trans Proces
+TEMPLATESPECIALRATES	Basic Time & Attend
+USERBSPECIALRATES	Basic Time & Attend
+MRPGANTTUSER	MRP
+MRPGANTTUSERSTAT	MRP
+DOCZ_CHANGES_LOG	General Ledger
+ADCFSMTEXT	Field Service Mngmt
+PROJACTHOURS	Time & Attendance
+MHSUMMARY	Time & Attendance
+DLVPARTS	Delivery Tracking
+PROJPRIV	Office Management
+USERSBWHOURSTASKSONE	Time & Attendance
+COLUMNFORPATNAME	Sales
+SALARYWORKAREA	Payroll
+SAFTFILETYPES	Portugal
+MONTHCALCHOURS	Basic Time & Attend
+DELUSERSBABSENTCHART	Basic Programs
+DELUSERSBWORKHOURS	Basic Programs
+COMPCERTG	Sales
+DOCDVLTRACKS	Delivery Tracking
+COMPCERTPT	Portuguese
+FNCCONSTGROUPS	System Maintenance
+QIVSEPA_CHANGE_LOG	Europe
+QIVTOSEPA	Europe
+SEPAMSGIDPAYMENTS	Europe
+SEPAMSGIDS	Europe
+SATCODES	General Ledger
+SHVAIVALL	Cashiers
+PAYMENTTYPETEXT	Basic Modelling
+SALACCOUNTSDEF	Basic Time & Attend
+FORM102INSURFILELOG	Payroll
+SALARYTRANSWORKAREA	Payroll
+SEPADIRDEBNUMS	Europe
+ADCDLVERRMSGS	Basic Programs
+ADCDLVITEMSLOG	Delivery Tracking
+OLDTAXES_ONE	Payroll
+SEARCHTYPECOLS	Enterprise Search
+SEPAFORCUST	Europe
+ADCDLVCONTROLLERLOG	Delivery Tracking
+ADCDLVDOCLINESLOG	Delivery Tracking
+ADCDLVEXTFILESLOG	Delivery Tracking
+ADCERRLOG	Basic Programs
+DLVPARTSLOG	Delivery Tracking
+SEPANUMPAYMENTS	Europe
+MEXICOUUID	Vendor Invoices
+ADCTPAYMENT2	þÞ¨ ·Õ°¨-·Õ°ÚÙ¯ ±Ú±ß
+ADCTPAYMENTLOG2	Field Sales Mngmt
+ADCSERNUMBERS	Field Sales Mngmt
+ADCSERNUMBERSLOG	Field Sales Mngmt
+FORM126JOBTYPES	Basic Time & Attend
+ADCFSMERRMSGSLOG	Field Service Mngmt
+ADCFSMITEMSLOG	Field Service Mngmt
+ADCFSMITEMSLOGI	Field Service Mngmt
+ADCPACKLIST	WMS Lite
+CONTAINERSTATS	Inventory Control
+CPROFVERTEXT	Price Quotations
+CUSTINVTEXT	Sales
+CUSTNOTESREP	Executive Reports
+DISTRORDERITEMS	Delivery Scheduling
+DOCTEXT_P_HEADER	Inventory Control
+DOCTEXT_P_ONE	Inventory Control
+DOCTEXT_P_TWO	Inventory Control
+DOCTEXT_T_HEADER	Inventory Control
+DOCTEXT_T_ONE	Inventory Control
+IVIFNCI	General Ledger
+LABORLAWCONST	Basic Time & Attend
+LABORLAWSALARIES	Basic Time & Attend
+LABORLAWSALARYSTACKD	Basic Time & Attend
+LABORLAWSALARYSTACKW	Basic Time & Attend
+LOADACCOUNTSOPENFRMT	Interfaces
+MENUPRIV	System Maintenance
+OFRMTFILEACC	Interfaces
+OFRMTFILEFNC	Interfaces
+OFRMTFILEPRT	Interfaces
+ORDIDISTRA	Delivery Scheduling
+ORDIDISTRWITHOUTLINE	Delivery Scheduling
+TTSCMDCONT	System Maintenance
+TTSDAYS	System Maintenance
+TTSENVS	System Maintenance
+TTSWEEKDAYS	System Maintenance
+ADCEIVLOG	Field Sales Mngmt
+COMPCERTBTL102	Payroll
+CREDITTYPES	Bank Transfers
+DELETEDACCOUNT	Basic Modelling
+FUNDREFS	Basic Time & Attend
+FUNDSMAASIKIM	Basic Time & Attend
+KPIHEADERS	KPI
+LANGPACKAGES	System Dictionaries
+MAASIKIM	Basic Time & Attend
+MAASIKIMLOG	Payroll
+MAASIKIMLOGITEMS	Payroll
+MODULEFORMCLMNS	Development Tools
+MODULEFORMCLMNS_ONE	Development Tools
+MODULEPROGFORMATS	Development Tools
+MODULEXECS	Development Tools
+MODULEXECS_ONE	Development Tools
+MONTHLYPROJHOURS	Projects
+MONTHLYPROJREP	Projects
+MONTHLYUSERHOURS	Projects
+ORAFORMERRORLOG	Oracle Data Base
+QIVCITIB_CHANGE_LOG	Interbk Trans Proces
+QIVTOCITIBANK	Interbk Trans Proces
+QUESTDOCUSTATS	Human Resources
+ROUTINGMETHODS	Bank Transfers
+SALACCOUNTS	Basic Time & Attend
+SALACCOUNTS2	Basic Time & Attend
+SETMONTHHOURS	Basic Time & Attend
+SUBMODULES	Development Tools
+TEMPLATEUSERSB	Basic Time & Attend
+TIMEZONES	System Maintenance
+TRANSFERTYPES	Bank Transfers
+TRPACKAGES	System Dictionaries
+ULOADFNCFEC	France
+USERBFUNDBREAKS	Payroll
+USERBSPECIALRATES_ON	Basic Time & Attend
+WAPARAMS	WMS
+WAVEAUTODEFS	WMS
+WAVEWAPARAMS	WMS
+WINDBILOG	Development Tools
+WINDBILOGSQL	Development Tools
+WINDBILOGTEXT	Development Tools
+APPFORMCOLUMNS	Applic. Generator
+APPFORMS	Applic. Generator
+APPGEN	Applic. Generator
+BIV_POALIM_CHOOSE	Cashiers
+BTLLOG	Payroll
+CHARGEMETHODS	Meter Billing
+COLFORMINTER	Form Generator
+CONTCHARGEDETAILS	Meter Billing
+CONTPAYMENTSMETERS	Meter Billing
+COUNTRIESCONT	Inventory Control
+DEFINESERVMIGRATION	Interfaces
+DELETED_MONTHSALARIE	Basic Time & Attend
+DLVEXTFILESA	Vendor Price Quotes
+FCLMNPACKSTAT	Development Tools
+FLAGORDERITEMSRPI	WMS
+INVOICEREC	Executive Reports
+LOADSERVMIGRATION	Interfaces
+LOGTRANSREP	Executive Reports
+METERCALLS	Meter Billing
+METERCALLSBILLED	Meter Billing
+METERCALLS_SON	Meter Billing
+MODULEREPCLMNS	Development Tools
+MODULEREPCLMNS_ONE	Development Tools
+PACKFLINK	Development Tools
+PACKPERSONAL	Development Tools
+PACKPERSONALCOLMOD	Development Tools
+PACKPERSONALMENUMOD	Development Tools
+PACKPERSONALONE	Development Tools
+PORDERSA	Purchasing
+PULSESPRICES	Meter Billing
+SALARYMEMOS	Basic Time & Attend
+SALARYMEMOS2	Basic Time & Attend
+SALARYMEMOS3	Basic Time & Attend
+SALARYMEMOSTEXT	Basic Time & Attend
+SALARYTRANS_ONE	Basic Time & Attend
+SALARYTRANS_ONE2	Basic Time & Attend
+SAVEDFORMCLTRIG	Form Generator
+SAVEDFORMCLTRIGTEXT	Form Generator
+SAVEDFORMTRIG	Form Generator
+SAVEDFORMTRIGTEXT	Form Generator
+SAVEDLOAD	Form Load Interface
+SAVEDLOADTEXT	Form Load Interface
+SAVEDPROG	Procedure Generator
+SAVEDPROGTEXT	Procedure Generator
+SUBMODULELINKS	Development Tools
+USERBLOANPAYMENTS	Payroll
+USERBLOANS	Payroll
+USERBLOANS2	Payroll
+USERBSALARYFORM	Payroll
+USERBSALARYFORMLINES	Payroll
+ADCPALLETS	WMS Lite
+CONTASSETS	Fixed Assets
+COSTCAREA	Cost Allocation
+COSTCPARAMS	Cost Allocation
+COSTCPARAMSFILE	Interfaces
+DNAMEPRIV	Office Management
+ENVCONFIGURATION	System Maintenance
+INTERNALDIALOGVER	Basic Programs
+MASTERPALLETPALLETS	WMS Lite
+MASTERPALLETS	WMS Lite
+METERCALLSSOURCES	Meter Billing
+METERPARTS	Meter Billing
+MONTHINSURANCEFIXES	Basic Time & Attend
+MONTHWORKHOURS	Time & Attendance
+ORDERITEMSVER	Sales
+ORDERITEMSVERTEXT	Sales
+ORDERSVER	Sales
+ORDERSVERTEXT	Sales
+ORDITREEVER	Sales
+RECIDTOCOSTC	Cost Allocation
+SALACCOUNTSCONT	Basic Time & Attend
+SALCREDITPOINTS_ONE	Basic Time & Attend
+SYSCONFIGURATION	System Maintenance
+TASKSCH_CHANGES_LOG	System Maintenance
+TRANSORDER_Q_ONE	Customer Service
+TRANSORDER_qs	Projects
+USERBSERVCALLITEMS	Time & Attendance
+USERSBWORKCOSTS	Cost Allocation
+WORKCOSTS	Cost Allocation
+WORKPLACE	CRM
+APIURLS	Credit Card Payments
+APPACINVOICES	Applic. Generator
+APPCOND	Applic. Generator
+APPCUSTOMERS	Applic. Generator
+APPDOCUMENTS_D	Applic. Generator
+APPORDERS	Applic. Generator
+APPSHOWDOCS	Applic. Generator
+AUTHORIZE	Credit Card Payments
+BRANCHHOURS	Branches
+CREDITLINES2	Bank Reconciliations
+CREDITPAGES2	Bank Reconciliations
+CREDITPOINTSDATES2	Basic Time & Attend
+CUSTDESTS_ONE	Sales
+DOCIV_D	Sales Invoices
+EVENTGROUPS	Basic Programs
+EVENTGROUPUSERS	Basic Programs
+EVENTS	Basic Programs
+EVENTSTEXT	Basic Programs
+ISRACURRENCIES	Interfaces
+LINKBONUSES	Price Quotations
+LOADUSERCHILDRENEW	System Maintenance
+LOADUSEREXTFILES	System Maintenance
+ORDERSDOCS	Sales
+ORDPORD	Sales
+PACKSHIPPERS	Shipping Interfaces
+PFNCITEMS2	Vendor Invoices
+SALARYTRANSITEMS2	Basic Time & Attend
+SHIPTYPESHIPPERS	Shipping Interfaces
+TASKLASTPROCESSES	System Maintenance
+YEARTAXSECTIONS4	Basic Time & Attend
+ACCNAMEPATTERNS	Basic Modelling
+ADCCONST	WMS Lite
+ADCCONSTUSER	WMS Lite
+ADCCONSTWARHS	WMS Lite
+ADCCONTROLCONST	Inventory Control
+ADCCONTROLCONSTUSER	Inventory Control
+ADCDLVCONTROLTEXTLOG	Delivery Tracking
+ADCFSMLOCLOG	Field Service Mngmt
+ADCPACKLISTLOG	WMS Lite
+ADCPALLETSLOG	WMS Lite
+ADCWMSCONTROLLERLOG	WMS Lite
+ADCWMSITEMSLOG	WMS Lite
+ADCWMSSERNUMBERSLOG	WMS Lite
+ADDRESSBYCODE	UK Address Lookup
+APPDOCUMENTS_P	Applic. Generator
+APPHQINVOICES	Applic. Generator
+APPPARTS	Applic. Generator
+APPPORDERS	Applic. Generator
+APPPURDEMANDS	Purchasing
+APPPYINVOICES	Applic. Generator
+APPROVEPORDERS	Purchasing
+APPSUPPLIERS	Applic. Generator
+APPTINVOICES	Applic. Generator
+CASHTOCASH	Credit Card Reconcil
+COMPCERTHMRCVAT	England
+COUNTRYSUBMODULES	Internal Maint.
+CREDITRECONSP	Credit Card Reconcil
+CSERNTRANS	Serial Numbers
+CUSTNAMEPATTERNS	Basic Modelling
+CUSTTOPICSTEXT	CRM
+DOCTEXT_N_HEADER	Sales
+DOCTEXT_N_ONE	Inventory Control
+DOCTEXT_N_TWO	Inventory Control
+EMPTYSTATE	Applic. Generator
+EXTERNALSECTIONS	General Ledger
+FLAGTRANS_H	WMS Assembly
+HMRCLOG	England
+INSTALLEDUPGTRIG	System Maintenance
+INTERFACEERR	Interfaces
+LEUMICARDCURRENCIES	Interfaces
+OIDCDEFS	External ID Mgmt.
+PACKPERSONALLOG	Development Tools
+PACKPERSONALLOGONE	Development Tools
+PACKPERSONALLOGU	Development Tools
+PORDERIV	Purchasing
+PORDERTRANS	Purchasing
+PORDREFUSAL	Purchasing
+PURDREFUSAL	Purchasing
+QDOCUMENTS_H	WMS Assembly
+RECONSPCHECK	Bank Reconciliations
+SHIPENGINEWUNIT	Shipping Interfaces
+SHIPSRATES	Shipping Interfaces
+SUPNAMEPATTERNS	Basic Modelling
+TAXONOMYCODES	Europe
+TOAPPROVEGRP	Purchasing
+TRANSIV_P	Sales Invoices
+VISACURRENCIES	Interfaces
+ACCRECONSP	General Ledger
+APPSHIPPERS	Applic. Generator
+BANKRECONSP	Bank Reconciliations
+CONSENTEXECS	GDPR Consent Mgmt.
+CONSENTITEMS	GDPR Consent Mgmt.
+CONSENTLINES	GDPR Consent Mgmt.
+CONSENTLINETEXT	GDPR Consent Mgmt.
+CONSENTVERSIONLINES	GDPR Consent Mgmt.
+CONSENTVERSIONS	GDPR Consent Mgmt.
+DLVREASONSTATS	Delivery Tracking
+FNCDOCITEMS	General Ledger
+ISRACARD_TERMINALS	Credit Card Payments
+LICAPPENTITIES	System Maintenance
+LICAPPS	System Maintenance
+LICAPPUSAGE	System Maintenance
+LICAPPUSERS	System Maintenance
+LOADACCOUNTSAE	General Ledger
+LOADCUSTMIGRATIONAE	Interfaces
+LOADCUSTPHONEBOOKAE	Interfaces
+LOADDESTCODESAE	Interfaces
+LOADORDCOSTCS	Interfaces
+LOADORDMIGRATIONAE	Internal Maint.
+LOADPORDMIGRATIONAE	Interfaces
+LOADSUPDESTCODESAE	Interfaces
+LOADSUPMIGRATIONAE	Interfaces
+LOADSUPPHONEBOOKAE	Interfaces
+MAASIKIMA	Basic Time & Attend
+MONTHSALARIESATTEND	Basic Time & Attend
+OIDCCLIENTS	External ID Mgmt.
+OIDCREDIRECTURLS	External ID Mgmt.
+PHONEBOOKCONSENTS	GDPR Consent Mgmt.
+SETTLEMENTDISCOUNTS	Basic Time & Attend
+SETTLEMENTS	Basic Time & Attend
+SHIPENGINELOGS	Shipping Interfaces
+SHIPENGINELOGSTEXT	Shipping Interfaces
+TEMPLATECONST2	Basic Time & Attend
+TERMINAL_VALUES	Credit Card Payments
+UPLOADEXTWHITELIST	System Maintenance
+USERSBABSENTCHARTATT	Basic Time & Attend
+USERSBATTENDANCE	Basic Time & Attend
+USERSBCONSENT	GDPR Consent Mgmt.
+USERSBCONSENTLINES	GDPR Consent Mgmt.
+USERSBWORKHOURSATTEN	Basic Time & Attend
+USERSINTEAM2	Human Resources
+ACCESSTOKEN	System Maintenance
+CASH_CREDITCARDS	Cashiers
+CCPLANS	Internal Maint.
+COMPPROGPARAM	Procedure Generator
+CONSTEXTFILES	Vendor Price Quotes
+CUSTOBLIGOBRANCHES	Sales
+DESTREASONS	Inventory Control
+DIVISIONS	Human Resources
+GEN_CHANGES_LOG	General Ledger
+GLP_CHANGES_LOG	General Ledger
+HMRCLOGENV	General Ledger
+HMRCPERIODKEY	England
+ICONSTEXTFILES	Vendor Price Quotes
+IVGUID	Sales Invoices
+IVGUIDDETAILS	Sales Invoices
+IVGUIDTIV	Sales Invoices
+IVGUIDURL	Sales Invoices
+JOBSCONT	Human Resources
+JOBTIMETYPES	Human Resources
+JOBUSER	Human Resources
+JOBUSERCODELIST	Human Resources
+JOBUSERCODES	Human Resources
+LEAVEREASONS	Human Resources
+LOGCOUNTERSARC	Inventory Control
+OAUTH2CONFIG	System Maintenance
+OBLIGOBRANCHES	Sales
+OBLIGOBRANCHESONE	Sales
+OBLIGOBRANCH_CHECKS	Sales
+OBLIGOBRANCH_CHECKS2	Sales
+OBLIGOBRANCH_FNCITEM	General Ledger
+OBLIGOBRANCH_IV	Sales
+OBLIGOBRANCH_ORDERS	Sales
+OBLIGOBRANCH_TRANS	Sales
+PARTAVAILARC	Inventory Control
+PROFILEFORMQUERIES	System Maintenance
+PROFILEPACKS	System Maintenance
+PROFILEQUERIES	System Maintenance
+PROFILES	System Maintenance
+SECUREBRANCH_CHECKS	Sales
+SETRACKITEMS	Shipping Interfaces
+SETRACKS	Shipping Interfaces
+SUBMODULETYPES	Development Tools
+TAXEXEMPTREASONS	System Maintenance
+TEMPLATECONST2A	Basic Time & Attend
+TFNCITEMS2ONE	Cashiers
+TFNCITEMS3ONE	Cashiers
+USERPROFILES	System Maintenance
+MED_FTRIGREV	Internal Development
+MED_FTRIGREVTEXT	Internal Development
+MED_FORMCLTRIGREV	Internal Development
+MED_FORMCLTRIGREVTXT	Internal Development
+MED_PROGRAMSREV	Internal Development
+MED_PROGRAMSREVTEXT	Internal Development
+ZEMG_LOADREVISION	Internal Development
+ZEMG_SYSCONST	Internal Development
+ZEMG_CPYCONST	Internal Development
+ZEMG_ERRMSGLOG	Internal Development
+ZEMG_LOADFORMALERTS	Internal Development
+ZEMG_LOADREPPERORD	Internal Development
+ZEMG_LOADFORMPERORD	Internal Development
+ZEMG_PROCRUNLOG	Internal Development
+ZEMG_FORMPERSONALORD	Internal Development
+ZEMG_FORMRECORDCOLOR	Internal Development
+ZEMG_REPPERSONALORD	Internal Development
+ZEMG_DOCPAT	Internal Development
+ZEMG_CHANGES_LOG3	Internal Development
+ZEMG_CHANGES_LOG4	Internal Development
+ZEMG_CHANGES_LOG5	Internal Development
+ZEMG_CHANGES_LOGHDR	Internal Development
+ZSFDC_EXEC	Internal Development
+ZSFDC_FCLMN	Form Generator
+ZSFDC_PROC	Internal Development
+AVALARAEXEMPTCODES	United States
+AVALARAEXMPTCDCOUNTR	United States
+AVALARALOG	United States
+AVALARATAXCODES	United States
+BANKINTERPAYS	Interbk Trans Proces
+BOXSHIPMENTS	Shipping Interfaces
+COMPCERTAVALARA	United States
+COMPCERTDIGBANKS	Digital Banking
+COSTINGLOGCOUNTS	Cost Analysis - Busn
+COSTINGLOGPARTS	Cost Analysis - Busn
+CPFNCITEMS	Sales Invoices
+CPPRINTIV	Sales Invoices
+CPSAVEDCARD	Sales Invoices
+CPTINVOICES	Sales Invoices
+CPTIV	Sales Invoices
+CPURL	Sales Invoices
+CUSTOMERSPORTAL	Sales Invoices
+DEFINEAFORMMIG	Interfaces
+DIGBANKLOG	Digital Banking
+ECSALEPARTS	E-Commerce
+ECSLBELGIUMH	Sales Invoices
+ECSLBELGIUML	Sales Invoices
+FNCTAXES	General Ledger
+FORM2815GENXMLH	Belgium
+FORM2815GENXMLS	Belgium
+FORM2815GENXMLSH	Belgium
+FORM2815SECTION	Belgium
+INTRASTATBELGIUM	Sales Invoices
+INTRASTATBELGIUMH	Sales Invoices
+INTRASTATBELGIUMLA	Sales Invoices
+INTRASTATBELGIUMLB	Sales Invoices
+LANGCATEGORIES	System Dictionaries
+MASAVLOG	Interbk Trans Proces
+MASAVLOGITEMS	Interbk Trans Proces
+PARTPRIV	Office Management
+PATOKENS	API
+PHONEPAYMENTS	Sales Invoices
+PROFILECOMPANIES	System Maintenance
+PROFILEEXEC	System Maintenance
+PROFILEFORMDESIGN_A	System Maintenance
+PROFILEFORMDESIGN_C	System Maintenance
+PROFILEFORMDESIGN_S	System Maintenance
+PROFILEFORMDESIGN_T	System Maintenance
+PROFILEUSERMENU	System Maintenance
+PROFRECORDCOLOR	System Maintenance
+QUESTDOCSTATS	Sales
+RETREASONS	Inventory Control
+SERIALREM	Production Control
+SETPREMIUM2	Basic Time & Attend
+SUBSCRIBEOPTIONS	Subscriptions
+SUBSCRIPTIONDEFS	Subscriptions
+SUBSCRIPTIONTYPES	Subscriptions
+TAXBOXDEFS	Europe
+TAXBOXES	Europe
+TRPACKAGETYPES	System Dictionaries
+USERBDAILYHOURS_ONE	Basic Time & Attend
+USERSBATTCOMP	Basic Time & Attend
+VATLOG	Europe
+ZODA_TYPES	Internal Development
+ZODA_TRANS	Internal Development
+ZODA_LOAD	Internal Development
+ZODA_ERROR	Internal Development
+ZMED_PICK	Internal Development
+AFORMSTATS	Production Control
+BANKLINESTEXT	Bank Reconciliations
+CALCMETERCALLS	Meter Billing
+CONTPAYMENTS2	Rentals
+CUSTRENTALDAYS	Rentals
+DATEVFNCINTERFACE	??????
+DOCPDFBELGIUM	Belgium
+DOCREFBELGIUM	Belgium
+DOCRENTALDAYS	Rentals
+DOCRENTEXCLDATES	Rentals
+DOCUMENTS_h	Rentals
+DSITEMS	Sales
+ELECINVOICEBELGIUM	Belgium
+ELEIIBELGIUM	Belgium
+FIBIPAGE	Digital Banking
+HMRCHEADERS	General Ledger
+HMRCLOGSUMS	General Ledger
+INTRASTATGERDECL	??????
+INTRASTATGERDECL2	??????
+INTRASTATGERFUNCCODE	??????
+INTRASTATGERITEM	??????
+INTRASTATGERMANY	??????
+INTRASTATGERMANY2	??????
+INTRASTATGERPARTY	??????
+INV_CUSTSALESBEXML	Belgium
+MRPLOG	MRP
+MRPLOGCOUNTS	MRP
+MRPLOGPARAMS	MRP
+MRPLOGSLOWITEMS	MRP
+OAUTH2DATA	System Maintenance
+PARTREVEXTFILES	Basic Modelling
+PDPROFPURDEMAND	Vendor Price Quotes
+PLAIDENVS	Bank Reconciliations
+PLAIDLOG	United States
+PORDPURDEMAND	Purchasing
+PROGFORMATREPS2	Procedure Generator
+PROJUSERS_ONE	Projects
+REFRESHTOKEN	System Maintenance
+RENTALDAYS	Rentals
+RENTEXCLDATES	Rentals
+RENTITEMS	Rentals
+RENTITEMSQ	Rentals
+RENTITEMSQONE	Rentals
+RENTTYPES	Rentals
+SERNMAINTCALLS	Customer Service
+SERNMAINTONE	Customer Service
+SERNMETERCALLS	Serial Numbers
+SERNMETERCALLSONE	Serial Numbers
+SERNRENTS	Rentals
+SERVCONTITEMSA	Rentals
+TAXBOXDEFS_ONE	Europe
+TAXTOTALBELGIUM	Belgium
+TRANSORDER_Z2	Rentals
+TRANSORDER_Z_ONE2	Rentals
+UPGRADESTEXT_Q	Software Versions
+VATLOGCONT	General Ledger
+VATLOGCONT2	General Ledger
+VATLOGCONT3	??????
+VATTYPES	General Ledger
+VIESLOG	Europe
+XMLFILETYPES	Europe
+hDOCSTATS	Rentals
+BANKLINEPAYIV	Sales Invoices
+BLFNCITEMS	Sales Invoices
+BTL_CHALAT	Payroll
+CLICK2SIGN	Basic Programs
+CLICK2SIGNPRINT	Basic Programs
+COPYEXTFILES	System Maintenance
+CPROFTYPESQ	Price Quotations
+CPSAVEDCARD2	Sales Invoices
+CPTIV2	Sales Invoices
+CPURL2	Sales Invoices
+CUSTRENTITEMSQ	Rentals
+DEALINVOICES	Sales Invoices
+DESIGNDICT	System Dictionaries
+DISTRDATELINESA	Delivery Scheduling
+DOCTEMPLATES	Development Tools
+ECOUSERLISTDATE	Engineering
+ECOUSERLISTLOG	Engineering
+ERRIVXMLLOAD	Italy
+F24TAXCODESITALY	Italy
+FEXPORTITEMS	Italy
+FLOORWARHS	WMS Lite
+FREQUENTEXPORTER	Italy
+GENINVOICESEURO	Europe
+GLCOMPERIODS	General Ledger
+HEALTHDEC	Office Management
+IMULOCALTAX	Italy
+INAILSECTION	Italy
+INSPSECTION	Italy
+INTRASTATITALY	Italy
+INTRASTATITALYAP	Italy
+INTRASTATITALYAS	Italy
+INTRASTATITALYBP	Italy
+INTRASTATITALYBS	Italy
+INTRASTATLOG	General Ledger
+IVXMLLOAD	Italy
+IVXMLLOADLINES	Italy
+IVXMLLOADTAX	Italy
+IVXMLLOG	Italy
+LANGTABTITLES	System Dictionaries
+LOCALITIESITALY	Italy
+MASAVFORCUSTRENT	Rentals
+MATERIALPACKTYPES	Italy
+MOBPARTS	Sales
+MODULEPROGTEMPLATES	Development Tools
+NICELABELDEF	Nice Label
+PARTREVUSERLIST	Basic Modelling
+PARTREVUSERLISTDATE	Basic Modelling
+PARTREVUSERLISTLOG	Basic Modelling
+PAYMENTTYPEPP	Credit Card Payments
+PDEALINVOICES	Vendor Invoices
+PDEALULIST	Purchasing
+PDEALUSERCODES	Purchasing
+PYINVUSER	Vendor Invoices
+PYINVUSERCODES	Vendor Invoices
+PYINVUSERLIST	Vendor Invoices
+RECEIVEDPACKS	Italy
+REGIONALSECTION	Italy
+REVISIONUSERLISTDATE	Engineering
+REVISIONUSERLISTLOG	Engineering
+RRMETHODS	Revenue Recognition
+RRPLANITEMS	Revenue Recognition
+RRPLANS	Revenue Recognition
+RRPLANS_CHANGES_LOG	General Ledger
+RRSTATS	Revenue Recognition
+RRTIMINGS	Revenue Recognition
+RRVSOE	Revenue Recognition
+SERIALZOOM	Serial Numbers
+SSINSURANCESECTION	Italy
+TABTITLES	System Dictionaries
+TAXSECTIONIT	Italy
+UNIFIEDPAYMENTMODEL	Italy
+USERBHEALTHDEC	Office Management
+WEBHOOKS	Webhooks
+ZOBNK_LOADTRANS	Internal Development
+ZMED_ODATFRM2	Internal Development
+ZMED_ODATFRM3	Internal Development
+ZMED_ODATFRM4	Internal Development
+ZMED_ODATFRM5	Internal Development
+ZMED_ODATFRM6	Internal Development
+ZMED_ODATFRM7	Internal Development
+ZMED_ODATFRM8	Internal Development
+ZMED_ODATFRM9	Internal Development
